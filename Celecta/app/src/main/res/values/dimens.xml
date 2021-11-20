@@ -8,4 +8,7 @@
     <dimen name="colasirenarosaHeight">300dp</dimen>
     <dimen name="_cobijasHeight">300dp</dimen>
     <dimen name="homecelectaHeight">100dp</dimen>
+    <dimen name="itemCommentsUser">20dp</dimen>
+    <dimen name="itemCommentsScore">20dp</dimen>
+    <dimen name="itemCommentsComment">15dp</dimen>
 </resources>
