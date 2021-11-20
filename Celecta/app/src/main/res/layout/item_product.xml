@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="@dimen/cardCornerRadius"
+    app:cardElevation="@dimen/defaultLayoutMargin">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="197dp"
+            android:src="@drawable/_cobijas"
+            android:layout_margin="@dimen/defaultLayoutMargin"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Cobijas"
+            android:textStyle="bold"
+            android:gravity="center_horizontal"
+            android:textSize="20dp"
+            android:textColor="@color/primaryTextColor"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="$ 999.999"
+            android:gravity="center_horizontal"
+            android:textSize="15dp"
+            android:textColor="@color/primaryTextColor"/>
+
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>
