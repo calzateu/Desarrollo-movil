@@ -5,10 +5,49 @@
     android:layout_height="match_parent"
     tools:context=".view.ui.fragments.CommentsDetailDialogFragment">
 
-    <!-- TODO: Update blank fragment layout -->
-    <TextView
+    <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:text="@string/hello_blank_fragment" />
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp">
 
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <EditText
+                android:id="@+id/etComments1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Mi comentario"
+                android:gravity="center"
+                android:textColor="@color/primaryTextColor"
+                android:textStyle="bold"/>
+
+            <Spinner
+                android:id="@+id/spinnerScores"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+
+            <EditText
+                android:id="@+id/etComments"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:hint="Comentario"
+                android:inputType="textMultiLine"
+                android:gravity="center_horizontal"/>
+
+            <Button
+                android:id="@+id/btSaveComment"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:background="@color/primaryDarkColor"
+                android:text="Guardar Comentario"
+                android:textColor="@color/primaryTextColor"
+                android:layout_marginTop="10dp"/>
+
+        </LinearLayout>
+    </LinearLayout>
 </FrameLayout>
