@@ -1,28 +1,48 @@
 package com.mintic22.celecta.view.ui.activities
 
 import androidx.appcompat.app.AppCompatActivity
+import androidx.fragment.app.Fragment
 import android.os.Bundle
+import android.widget.RelativeLayout
 import androidx.navigation.fragment.NavHostFragment
-import androidx.navigation.ui.setupWithNavController
-import com.google.android.material.bottomnavigation.BottomNavigationView
+import com.google.android.material.bottomnavigation.BottomNavigationItemView
 import com.mintic22.celecta.R
-import com.mintic22.celecta.databinding.ActivityMainBinding
+import com.mintic22.celecta.view.ui.fragments.HomeFragment
+import com.mintic22.celecta.view.ui.fragments.OederFragment
+import com.mintic22.celecta.view.ui.fragments.ComentsFragment
+import com.mintic22.celecta.view.ui.fragments.AdminFragment
+import com.google.android.material.bottomnavigation.BottomNavigationView
+import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
 
-    private lateinit var binding: ActivityMainBinding
+    private val homeFragment = HomeFragment()
+    private val comeFragment = ComentsFragment()
+    private val orderFragment = OederFragment()
+    private val adminFragment = AdminFragment()
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        binding = ActivityMainBinding.inflate(layoutInflater)
-        val view = binding.root
-        setContentView(view)
-        configNav()
+        setContentView(R.layout.activity_main)
+        replaceFragment(homeFragment)
+
+        nav_boto.setOnNavigationItemSelectedListener{
+            when(it.itemId){
+                R.id.navHomeFragment -> replaceFragment(homeFragment)
+                R.id.navCommentsFragment -> replaceFragment(comeFragment)
+                R.id.navOrderFragment -> replaceFragment(orderFragment)
+                R.id.navAdminFragment -> replaceFragment(adminFragment)
+            }
+            true
+        }
     }
 
-    fun configNav(){
-        val navHostFragment = supportFragmentManager.findFragmentById(R.id.fragContent) as NavHostFragment
-        val navController = navHostFragment.navController
-        findViewById<BottomNavigationView>(R.id.bnv_menu).setupWithNavController(navController)
+    private fun replaceFragment(fragment:Fragment){
+        if(fragment !=null){
+            val transaction = supportFragmentManager.beginTransaction()
+            transaction.replace(R.id.fragment_container, fragment)
+            transaction.commit()
+        }
     }
+
 }
