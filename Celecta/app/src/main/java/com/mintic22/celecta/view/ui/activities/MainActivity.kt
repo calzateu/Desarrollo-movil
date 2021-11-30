@@ -12,6 +12,9 @@ import com.mintic22.celecta.view.ui.fragments.OederFragment
 import com.mintic22.celecta.view.ui.fragments.ComentsFragment
 import com.mintic22.celecta.view.ui.fragments.AdminFragment
 import com.google.android.material.bottomnavigation.BottomNavigationView
+import com.mintic22.celecta.R
+import com.mintic22.celecta.view.ui.ProductGridFragment
+import com.mintic22.celecta.view.ui.fragments.*
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
@@ -19,6 +22,8 @@ class MainActivity : AppCompatActivity() {
     private val homeFragment = HomeFragment()
     private val comeFragment = ComentsFragment()
     private val orderFragment = OederFragment()
+    private val commentsDetailDialogFragment = CommentsDetailDialogFragment()
+    private val productGridFragment = ProductGridFragment()
     private val adminFragment = AdminFragment()
 
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -29,8 +34,8 @@ class MainActivity : AppCompatActivity() {
         nav_boto.setOnNavigationItemSelectedListener{
             when(it.itemId){
                 R.id.navHomeFragment -> replaceFragment(homeFragment)
-                R.id.navCommentsFragment -> replaceFragment(comeFragment)
-                R.id.navOrderFragment -> replaceFragment(orderFragment)
+                R.id.navCommentsFragment -> replaceFragment(commentsDetailDialogFragment)
+                R.id.navOrderFragment -> replaceFragment(productGridFragment)
                 R.id.navAdminFragment -> replaceFragment(adminFragment)
             }
             true

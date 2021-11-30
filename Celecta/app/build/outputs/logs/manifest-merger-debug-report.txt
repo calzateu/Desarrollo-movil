@@ -1,0 +1,324 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Desarrollo-movil-main\Celecta\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from D:\Desarrollo-movil-main\Celecta\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from D:\Desarrollo-movil-main\Celecta\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from D:\Desarrollo-movil-main\Celecta\app\src\main\AndroidManifest.xml:2:1-35:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.3] C:\Users\Asus M409D\.gradle\caches\transforms-3\c677f38602a8f899ddc8c0e70ce96420\transformed\navigation-ui-ktx-2.3.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui:2.3.3] C:\Users\Asus M409D\.gradle\caches\transforms-3\ce54c85b97527df07dba4d17e776b1ad\transformed\navigation-ui-2.3.3\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\bcb18358585a03dbcbdb147697d35798\transformed\material-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\7a440f8fd0f6340768219ea4210c9a4a\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\2f6b630afd9735699f59004420de36f0\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.3] C:\Users\Asus M409D\.gradle\caches\transforms-3\d15cf3b74679508f642408397f09771c\transformed\navigation-fragment-ktx-2.3.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:viewbinding:7.0.3] C:\Users\Asus M409D\.gradle\caches\transforms-3\7a06ead096b34b1d145fbf2e987b0c1f\transformed\jetified-viewbinding-7.0.3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Asus M409D\.gradle\caches\transforms-3\31d26ec3836079b8ed1ad218576c5a60\transformed\jetified-volley-1.1.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] C:\Users\Asus M409D\.gradle\caches\transforms-3\b86ba97cb2fda0a49f823f7416a85581\transformed\jetified-fragment-ktx-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.3] C:\Users\Asus M409D\.gradle\caches\transforms-3\b5f9a12ee900f8bb04cbd0b264a97b0e\transformed\navigation-runtime-ktx-2.3.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.3] C:\Users\Asus M409D\.gradle\caches\transforms-3\f04846216a96b89c54c89c4b3fcf6b4f\transformed\navigation-common-ktx-2.3.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.1.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\aa3eb2490ccc7d97488c7ccd1c20b774\transformed\jetified-activity-ktx-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\9b0de5184b7cd71d9ded1032756e478d\transformed\jetified-core-ktx-1.7.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\bc5039e747077d43663e848bd33dd15e\transformed\jetified-lifecycle-viewmodel-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\454f8e45b89de0c3cfe75c0371a52c71\transformed\jetified-lifecycle-livedata-core-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\cef339f865fd3013ca2b5dd5708729d5\transformed\jetified-lifecycle-runtime-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] C:\Users\Asus M409D\.gradle\caches\transforms-3\1deb13f0cb0b1f941c6820c69a051a2e\transformed\constraintlayout-2.1.2\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.4.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\49653088c52a1e72fc2e80fdf4de1567\transformed\appcompat-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\2b5c898e936709fb1cd941a67abed3dd\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.squareup.picasso:picasso:2.8] C:\Users\Asus M409D\.gradle\caches\transforms-3\96875ea8c8fc7da0760979ea713e7fb9\transformed\jetified-picasso-2.8\AndroidManifest.xml:2:1-14:12
+MERGED from [androidx.navigation:navigation-fragment:2.3.3] C:\Users\Asus M409D\.gradle\caches\transforms-3\65345928e7a0b311340faec567f83a46\transformed\navigation-fragment-2.3.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Asus M409D\.gradle\caches\transforms-3\db211251cc849559e74f4baae4a5c87e\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.3.3] C:\Users\Asus M409D\.gradle\caches\transforms-3\763a8c84a0a9f90d73f72870159cb454\transformed\navigation-runtime-2.3.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\Asus M409D\.gradle\caches\transforms-3\b8739d750309c96a4e7e981a94922dec\transformed\jetified-activity-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\f2a5d17a87a35563418f27b7d0ec2b88\transformed\jetified-appcompat-resources-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\194d09a5b6bf0e1ba04c15303f309d97\transformed\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\39ff79a62eb2e95484aeab3053917e04\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\6512e8a99d5b00dedb15e2f6fb26076f\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\4477aa5961d688ef1ae856d4f7217ce2\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\4d4810e55ec9e85e4185a5a392c82168\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\b6f783d07ec057d46e115fd34ec096f4\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\db884b68c4a4f0c9a411df931f4275f2\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\4c86d48a60d37d6c35702344aefbc2a9\transformed\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\0d95b1fcb5b5b8ae41dc01a8899df1ec\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Asus M409D\.gradle\caches\transforms-3\269b13dc8ab4f511b733f031215d7994\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\0268da4440ef7fb4aa8a6c08afe80e94\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\0a728f98365f01487d04e51e75cf866f\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\bf7391d1d4aa2aea6d3ad3147eefc4ec\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.3.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\ed76833cbc6b36b252fc8b01d531c6a9\transformed\transition-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\b1a1405da32f7e37dc554ab83996015c\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\3dba90b15b761744535de9dd4bf9d02a\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\3848f8e711a75d2300bbe920569b3733\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common:2.3.3] C:\Users\Asus M409D\.gradle\caches\transforms-3\c2899debf93ab8b27fb32ab94a1a1914\transformed\navigation-common-2.3.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.7.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\b91ce89b72bc85693b79dc5e34464858\transformed\core-1.7.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\5fdd0c9dfc1fdeccdf3214179dae6f26\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Asus M409D\.gradle\caches\transforms-3\809019dcc01881aced1122d5bdbfbdb6\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\fe385138aafdb5e0fb4bed88d734b265\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Asus M409D\.gradle\caches\transforms-3\a25b8355a57ac9ff0b1e768edf50a601\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\828d0230e4b5e7129f907a686206a78c\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\4b170b9d857d86673ddbe4930f9f1830\transformed\exifinterface-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Asus M409D\.gradle\caches\transforms-3\8675718228fdd5acc8c588f9695a1f0a\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\fa4624bc9829f023fae49dc338c05683\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\dcbcedbb52ecda36592c7a07a765ccc2\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\8969ac1d061e8b5a47d345e231adc78b\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\94edaee8973cee1bcfad9cce4ddd6b17\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Asus M409D\.gradle\caches\transforms-3\a89390b7a661c90f764b0a90f3ce4b2c\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\ca5a06acd0d0ab818a41cfe4171822b1\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\987bae65087eada2132b3ed7fa506ab4\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\89cf83a8fe373525cc2ce5acdf7927f7\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\d35a5894aa1a403b1fa93f5afb808c7e\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\f154cf367bee72840e32d2c22723e225\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\5a762f9ea0b017d2b51dc7d069c31352\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\3793d259c1c57c3354669fd3bce489b7\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from D:\Desarrollo-movil-main\Celecta\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from D:\Desarrollo-movil-main\Celecta\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from D:\Desarrollo-movil-main\Celecta\app\src\main\AndroidManifest.xml:2:1-35:12
+	package
+		ADDED from D:\Desarrollo-movil-main\Celecta\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from D:\Desarrollo-movil-main\Celecta\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Desarrollo-movil-main\Celecta\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Desarrollo-movil-main\Celecta\app\src\main\AndroidManifest.xml
+		ADDED from D:\Desarrollo-movil-main\Celecta\app\src\main\AndroidManifest.xml:2:1-35:12
+		INJECTED from D:\Desarrollo-movil-main\Celecta\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Desarrollo-movil-main\Celecta\app\src\main\AndroidManifest.xml
+		ADDED from D:\Desarrollo-movil-main\Celecta\app\src\main\AndroidManifest.xml:2:1-35:12
+		INJECTED from D:\Desarrollo-movil-main\Celecta\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Desarrollo-movil-main\Celecta\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\Desarrollo-movil-main\Celecta\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from D:\Desarrollo-movil-main\Celecta\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\Desarrollo-movil-main\Celecta\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from D:\Desarrollo-movil-main\Celecta\app\src\main\AndroidManifest.xml:6:22-76
+application
+ADDED from D:\Desarrollo-movil-main\Celecta\app\src\main\AndroidManifest.xml:8:5-33:19
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\bcb18358585a03dbcbdb147697d35798\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\bcb18358585a03dbcbdb147697d35798\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Asus M409D\.gradle\caches\transforms-3\31d26ec3836079b8ed1ad218576c5a60\transformed\jetified-volley-1.1.1\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Asus M409D\.gradle\caches\transforms-3\31d26ec3836079b8ed1ad218576c5a60\transformed\jetified-volley-1.1.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] C:\Users\Asus M409D\.gradle\caches\transforms-3\1deb13f0cb0b1f941c6820c69a051a2e\transformed\constraintlayout-2.1.2\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] C:\Users\Asus M409D\.gradle\caches\transforms-3\1deb13f0cb0b1f941c6820c69a051a2e\transformed\constraintlayout-2.1.2\AndroidManifest.xml:9:5-20
+MERGED from [com.squareup.picasso:picasso:2.8] C:\Users\Asus M409D\.gradle\caches\transforms-3\96875ea8c8fc7da0760979ea713e7fb9\transformed\jetified-picasso-2.8\AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.8] C:\Users\Asus M409D\.gradle\caches\transforms-3\96875ea8c8fc7da0760979ea713e7fb9\transformed\jetified-picasso-2.8\AndroidManifest.xml:7:5-12:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\39ff79a62eb2e95484aeab3053917e04\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\39ff79a62eb2e95484aeab3053917e04\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.core:core:1.7.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\b91ce89b72bc85693b79dc5e34464858\transformed\core-1.7.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\b91ce89b72bc85693b79dc5e34464858\transformed\core-1.7.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Asus M409D\.gradle\caches\transforms-3\8675718228fdd5acc8c588f9695a1f0a\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Asus M409D\.gradle\caches\transforms-3\8675718228fdd5acc8c588f9695a1f0a\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\fa4624bc9829f023fae49dc338c05683\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\fa4624bc9829f023fae49dc338c05683\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\dcbcedbb52ecda36592c7a07a765ccc2\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\dcbcedbb52ecda36592c7a07a765ccc2\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\b91ce89b72bc85693b79dc5e34464858\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from D:\Desarrollo-movil-main\Celecta\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from D:\Desarrollo-movil-main\Celecta\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from D:\Desarrollo-movil-main\Celecta\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from D:\Desarrollo-movil-main\Celecta\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from D:\Desarrollo-movil-main\Celecta\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from D:\Desarrollo-movil-main\Celecta\app\src\main\AndroidManifest.xml:14:9-45
+activity#com.mintic22.celecta.view.ui.activities.SplashScreenActivity
+ADDED from D:\Desarrollo-movil-main\Celecta\app\src\main\AndroidManifest.xml:15:9-23:20
+	android:exported
+		ADDED from D:\Desarrollo-movil-main\Celecta\app\src\main\AndroidManifest.xml:17:13-36
+	android:name
+		ADDED from D:\Desarrollo-movil-main\Celecta\app\src\main\AndroidManifest.xml:16:13-68
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Desarrollo-movil-main\Celecta\app\src\main\AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from D:\Desarrollo-movil-main\Celecta\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from D:\Desarrollo-movil-main\Celecta\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Desarrollo-movil-main\Celecta\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from D:\Desarrollo-movil-main\Celecta\app\src\main\AndroidManifest.xml:21:27-74
+activity#com.mintic22.celecta.view.ui.activities.MainActivity
+ADDED from D:\Desarrollo-movil-main\Celecta\app\src\main\AndroidManifest.xml:24:9-32:20
+	android:exported
+		ADDED from D:\Desarrollo-movil-main\Celecta\app\src\main\AndroidManifest.xml:26:13-36
+	android:name
+		ADDED from D:\Desarrollo-movil-main\Celecta\app\src\main\AndroidManifest.xml:25:13-60
+uses-sdk
+INJECTED from D:\Desarrollo-movil-main\Celecta\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Desarrollo-movil-main\Celecta\app\src\main\AndroidManifest.xml
+INJECTED from D:\Desarrollo-movil-main\Celecta\app\src\main\AndroidManifest.xml
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.3] C:\Users\Asus M409D\.gradle\caches\transforms-3\c677f38602a8f899ddc8c0e70ce96420\transformed\navigation-ui-ktx-2.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.3] C:\Users\Asus M409D\.gradle\caches\transforms-3\c677f38602a8f899ddc8c0e70ce96420\transformed\navigation-ui-ktx-2.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.3] C:\Users\Asus M409D\.gradle\caches\transforms-3\ce54c85b97527df07dba4d17e776b1ad\transformed\navigation-ui-2.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.3] C:\Users\Asus M409D\.gradle\caches\transforms-3\ce54c85b97527df07dba4d17e776b1ad\transformed\navigation-ui-2.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\bcb18358585a03dbcbdb147697d35798\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\bcb18358585a03dbcbdb147697d35798\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\7a440f8fd0f6340768219ea4210c9a4a\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\7a440f8fd0f6340768219ea4210c9a4a\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\2f6b630afd9735699f59004420de36f0\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\2f6b630afd9735699f59004420de36f0\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.3] C:\Users\Asus M409D\.gradle\caches\transforms-3\d15cf3b74679508f642408397f09771c\transformed\navigation-fragment-ktx-2.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.3] C:\Users\Asus M409D\.gradle\caches\transforms-3\d15cf3b74679508f642408397f09771c\transformed\navigation-fragment-ktx-2.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:7.0.3] C:\Users\Asus M409D\.gradle\caches\transforms-3\7a06ead096b34b1d145fbf2e987b0c1f\transformed\jetified-viewbinding-7.0.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:7.0.3] C:\Users\Asus M409D\.gradle\caches\transforms-3\7a06ead096b34b1d145fbf2e987b0c1f\transformed\jetified-viewbinding-7.0.3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Asus M409D\.gradle\caches\transforms-3\31d26ec3836079b8ed1ad218576c5a60\transformed\jetified-volley-1.1.1\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Asus M409D\.gradle\caches\transforms-3\31d26ec3836079b8ed1ad218576c5a60\transformed\jetified-volley-1.1.1\AndroidManifest.xml:7:5-43
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] C:\Users\Asus M409D\.gradle\caches\transforms-3\b86ba97cb2fda0a49f823f7416a85581\transformed\jetified-fragment-ktx-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] C:\Users\Asus M409D\.gradle\caches\transforms-3\b86ba97cb2fda0a49f823f7416a85581\transformed\jetified-fragment-ktx-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.3] C:\Users\Asus M409D\.gradle\caches\transforms-3\b5f9a12ee900f8bb04cbd0b264a97b0e\transformed\navigation-runtime-ktx-2.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.3] C:\Users\Asus M409D\.gradle\caches\transforms-3\b5f9a12ee900f8bb04cbd0b264a97b0e\transformed\navigation-runtime-ktx-2.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.3] C:\Users\Asus M409D\.gradle\caches\transforms-3\f04846216a96b89c54c89c4b3fcf6b4f\transformed\navigation-common-ktx-2.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.3] C:\Users\Asus M409D\.gradle\caches\transforms-3\f04846216a96b89c54c89c4b3fcf6b4f\transformed\navigation-common-ktx-2.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\aa3eb2490ccc7d97488c7ccd1c20b774\transformed\jetified-activity-ktx-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\aa3eb2490ccc7d97488c7ccd1c20b774\transformed\jetified-activity-ktx-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\9b0de5184b7cd71d9ded1032756e478d\transformed\jetified-core-ktx-1.7.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\9b0de5184b7cd71d9ded1032756e478d\transformed\jetified-core-ktx-1.7.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\bc5039e747077d43663e848bd33dd15e\transformed\jetified-lifecycle-viewmodel-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\bc5039e747077d43663e848bd33dd15e\transformed\jetified-lifecycle-viewmodel-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\454f8e45b89de0c3cfe75c0371a52c71\transformed\jetified-lifecycle-livedata-core-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\454f8e45b89de0c3cfe75c0371a52c71\transformed\jetified-lifecycle-livedata-core-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\cef339f865fd3013ca2b5dd5708729d5\transformed\jetified-lifecycle-runtime-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\cef339f865fd3013ca2b5dd5708729d5\transformed\jetified-lifecycle-runtime-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] C:\Users\Asus M409D\.gradle\caches\transforms-3\1deb13f0cb0b1f941c6820c69a051a2e\transformed\constraintlayout-2.1.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] C:\Users\Asus M409D\.gradle\caches\transforms-3\1deb13f0cb0b1f941c6820c69a051a2e\transformed\constraintlayout-2.1.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.4.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\49653088c52a1e72fc2e80fdf4de1567\transformed\appcompat-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\49653088c52a1e72fc2e80fdf4de1567\transformed\appcompat-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\2b5c898e936709fb1cd941a67abed3dd\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\2b5c898e936709fb1cd941a67abed3dd\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.picasso:picasso:2.8] C:\Users\Asus M409D\.gradle\caches\transforms-3\96875ea8c8fc7da0760979ea713e7fb9\transformed\jetified-picasso-2.8\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.8] C:\Users\Asus M409D\.gradle\caches\transforms-3\96875ea8c8fc7da0760979ea713e7fb9\transformed\jetified-picasso-2.8\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.3.3] C:\Users\Asus M409D\.gradle\caches\transforms-3\65345928e7a0b311340faec567f83a46\transformed\navigation-fragment-2.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.3] C:\Users\Asus M409D\.gradle\caches\transforms-3\65345928e7a0b311340faec567f83a46\transformed\navigation-fragment-2.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Asus M409D\.gradle\caches\transforms-3\db211251cc849559e74f4baae4a5c87e\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Asus M409D\.gradle\caches\transforms-3\db211251cc849559e74f4baae4a5c87e\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.3] C:\Users\Asus M409D\.gradle\caches\transforms-3\763a8c84a0a9f90d73f72870159cb454\transformed\navigation-runtime-2.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.3] C:\Users\Asus M409D\.gradle\caches\transforms-3\763a8c84a0a9f90d73f72870159cb454\transformed\navigation-runtime-2.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\Asus M409D\.gradle\caches\transforms-3\b8739d750309c96a4e7e981a94922dec\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\Asus M409D\.gradle\caches\transforms-3\b8739d750309c96a4e7e981a94922dec\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\f2a5d17a87a35563418f27b7d0ec2b88\transformed\jetified-appcompat-resources-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\f2a5d17a87a35563418f27b7d0ec2b88\transformed\jetified-appcompat-resources-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\194d09a5b6bf0e1ba04c15303f309d97\transformed\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\194d09a5b6bf0e1ba04c15303f309d97\transformed\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\39ff79a62eb2e95484aeab3053917e04\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\39ff79a62eb2e95484aeab3053917e04\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\6512e8a99d5b00dedb15e2f6fb26076f\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\6512e8a99d5b00dedb15e2f6fb26076f\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\4477aa5961d688ef1ae856d4f7217ce2\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\4477aa5961d688ef1ae856d4f7217ce2\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\4d4810e55ec9e85e4185a5a392c82168\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\4d4810e55ec9e85e4185a5a392c82168\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\b6f783d07ec057d46e115fd34ec096f4\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\b6f783d07ec057d46e115fd34ec096f4\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\db884b68c4a4f0c9a411df931f4275f2\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\db884b68c4a4f0c9a411df931f4275f2\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\4c86d48a60d37d6c35702344aefbc2a9\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\4c86d48a60d37d6c35702344aefbc2a9\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\0d95b1fcb5b5b8ae41dc01a8899df1ec\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\0d95b1fcb5b5b8ae41dc01a8899df1ec\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Asus M409D\.gradle\caches\transforms-3\269b13dc8ab4f511b733f031215d7994\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Asus M409D\.gradle\caches\transforms-3\269b13dc8ab4f511b733f031215d7994\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\0268da4440ef7fb4aa8a6c08afe80e94\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\0268da4440ef7fb4aa8a6c08afe80e94\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\0a728f98365f01487d04e51e75cf866f\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\0a728f98365f01487d04e51e75cf866f\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\bf7391d1d4aa2aea6d3ad3147eefc4ec\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\bf7391d1d4aa2aea6d3ad3147eefc4ec\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\ed76833cbc6b36b252fc8b01d531c6a9\transformed\transition-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\ed76833cbc6b36b252fc8b01d531c6a9\transformed\transition-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\b1a1405da32f7e37dc554ab83996015c\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\b1a1405da32f7e37dc554ab83996015c\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\3dba90b15b761744535de9dd4bf9d02a\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\3dba90b15b761744535de9dd4bf9d02a\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\3848f8e711a75d2300bbe920569b3733\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\3848f8e711a75d2300bbe920569b3733\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.3.3] C:\Users\Asus M409D\.gradle\caches\transforms-3\c2899debf93ab8b27fb32ab94a1a1914\transformed\navigation-common-2.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.3] C:\Users\Asus M409D\.gradle\caches\transforms-3\c2899debf93ab8b27fb32ab94a1a1914\transformed\navigation-common-2.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\b91ce89b72bc85693b79dc5e34464858\transformed\core-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\b91ce89b72bc85693b79dc5e34464858\transformed\core-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\5fdd0c9dfc1fdeccdf3214179dae6f26\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\5fdd0c9dfc1fdeccdf3214179dae6f26\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Asus M409D\.gradle\caches\transforms-3\809019dcc01881aced1122d5bdbfbdb6\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Asus M409D\.gradle\caches\transforms-3\809019dcc01881aced1122d5bdbfbdb6\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\fe385138aafdb5e0fb4bed88d734b265\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\fe385138aafdb5e0fb4bed88d734b265\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Asus M409D\.gradle\caches\transforms-3\a25b8355a57ac9ff0b1e768edf50a601\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Asus M409D\.gradle\caches\transforms-3\a25b8355a57ac9ff0b1e768edf50a601\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\828d0230e4b5e7129f907a686206a78c\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\828d0230e4b5e7129f907a686206a78c\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\4b170b9d857d86673ddbe4930f9f1830\transformed\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\4b170b9d857d86673ddbe4930f9f1830\transformed\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Asus M409D\.gradle\caches\transforms-3\8675718228fdd5acc8c588f9695a1f0a\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Asus M409D\.gradle\caches\transforms-3\8675718228fdd5acc8c588f9695a1f0a\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\fa4624bc9829f023fae49dc338c05683\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\fa4624bc9829f023fae49dc338c05683\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\dcbcedbb52ecda36592c7a07a765ccc2\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\dcbcedbb52ecda36592c7a07a765ccc2\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\8969ac1d061e8b5a47d345e231adc78b\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\8969ac1d061e8b5a47d345e231adc78b\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\94edaee8973cee1bcfad9cce4ddd6b17\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\94edaee8973cee1bcfad9cce4ddd6b17\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Asus M409D\.gradle\caches\transforms-3\a89390b7a661c90f764b0a90f3ce4b2c\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Asus M409D\.gradle\caches\transforms-3\a89390b7a661c90f764b0a90f3ce4b2c\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\ca5a06acd0d0ab818a41cfe4171822b1\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\ca5a06acd0d0ab818a41cfe4171822b1\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\987bae65087eada2132b3ed7fa506ab4\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\987bae65087eada2132b3ed7fa506ab4\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\89cf83a8fe373525cc2ce5acdf7927f7\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\89cf83a8fe373525cc2ce5acdf7927f7\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\d35a5894aa1a403b1fa93f5afb808c7e\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\d35a5894aa1a403b1fa93f5afb808c7e\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\f154cf367bee72840e32d2c22723e225\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\f154cf367bee72840e32d2c22723e225\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\5a762f9ea0b017d2b51dc7d069c31352\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\5a762f9ea0b017d2b51dc7d069c31352\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\3793d259c1c57c3354669fd3bce489b7\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\3793d259c1c57c3354669fd3bce489b7\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\Desarrollo-movil-main\Celecta\app\src\main\AndroidManifest.xml
+INJECTED from D:\Desarrollo-movil-main\Celecta\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Desarrollo-movil-main\Celecta\app\src\main\AndroidManifest.xml
+		ADDED from D:\Desarrollo-movil-main\Celecta\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Desarrollo-movil-main\Celecta\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Desarrollo-movil-main\Celecta\app\src\main\AndroidManifest.xml
+		ADDED from D:\Desarrollo-movil-main\Celecta\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Desarrollo-movil-main\Celecta\app\src\main\AndroidManifest.xml
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.8] C:\Users\Asus M409D\.gradle\caches\transforms-3\96875ea8c8fc7da0760979ea713e7fb9\transformed\jetified-picasso-2.8\AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.8] C:\Users\Asus M409D\.gradle\caches\transforms-3\96875ea8c8fc7da0760979ea713e7fb9\transformed\jetified-picasso-2.8\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.8] C:\Users\Asus M409D\.gradle\caches\transforms-3\96875ea8c8fc7da0760979ea713e7fb9\transformed\jetified-picasso-2.8\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.8] C:\Users\Asus M409D\.gradle\caches\transforms-3\96875ea8c8fc7da0760979ea713e7fb9\transformed\jetified-picasso-2.8\AndroidManifest.xml:9:13-64
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\39ff79a62eb2e95484aeab3053917e04\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\fa4624bc9829f023fae49dc338c05683\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\fa4624bc9829f023fae49dc338c05683\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\dcbcedbb52ecda36592c7a07a765ccc2\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\dcbcedbb52ecda36592c7a07a765ccc2\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\39ff79a62eb2e95484aeab3053917e04\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\39ff79a62eb2e95484aeab3053917e04\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\39ff79a62eb2e95484aeab3053917e04\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\39ff79a62eb2e95484aeab3053917e04\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\39ff79a62eb2e95484aeab3053917e04\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\39ff79a62eb2e95484aeab3053917e04\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\39ff79a62eb2e95484aeab3053917e04\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\fa4624bc9829f023fae49dc338c05683\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\fa4624bc9829f023fae49dc338c05683\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Asus M409D\.gradle\caches\transforms-3\fa4624bc9829f023fae49dc338c05683\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
