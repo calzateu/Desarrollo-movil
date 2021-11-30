@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "D:\\Desarrollo-movil-main\\Celecta\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_admin_detail_dialog.xml",
+        "source": "D:\\Desarrollo-movil-main\\Celecta\\app\\src\\main\\res\\layout\\fragment_admin_detail_dialog.xml"
+    },
+    {
+        "merged": "D:\\Desarrollo-movil-main\\Celecta\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_home.xml",
+        "source": "D:\\Desarrollo-movil-main\\Celecta\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "D:\\Desarrollo-movil-main\\Celecta\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\shr_product_grid_fragment.xml",
+        "source": "D:\\Desarrollo-movil-main\\Celecta\\app\\src\\main\\res\\layout\\shr_product_grid_fragment.xml"
+    },
+    {
+        "merged": "D:\\Desarrollo-movil-main\\Celecta\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "D:\\Desarrollo-movil-main\\Celecta\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Desarrollo-movil-main\\Celecta\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\shr_staggered_product_card_second.xml",
+        "source": "D:\\Desarrollo-movil-main\\Celecta\\app\\src\\main\\res\\layout\\shr_staggered_product_card_second.xml"
+    },
+    {
+        "merged": "D:\\Desarrollo-movil-main\\Celecta\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_comments.xml",
+        "source": "D:\\Desarrollo-movil-main\\Celecta\\app\\src\\main\\res\\layout\\item_comments.xml"
+    },
+    {
+        "merged": "D:\\Desarrollo-movil-main\\Celecta\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_admin.xml",
+        "source": "D:\\Desarrollo-movil-main\\Celecta\\app\\src\\main\\res\\layout\\fragment_admin.xml"
+    },
+    {
+        "merged": "D:\\Desarrollo-movil-main\\Celecta\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\shr_staggered_product_card_third.xml",
+        "source": "D:\\Desarrollo-movil-main\\Celecta\\app\\src\\main\\res\\layout\\shr_staggered_product_card_third.xml"
+    },
+    {
+        "merged": "D:\\Desarrollo-movil-main\\Celecta\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_order_detail_dialog.xml",
+        "source": "D:\\Desarrollo-movil-main\\Celecta\\app\\src\\main\\res\\layout\\fragment_order_detail_dialog.xml"
+    },
+    {
+        "merged": "D:\\Desarrollo-movil-main\\Celecta\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\shr_product_card.xml",
+        "source": "D:\\Desarrollo-movil-main\\Celecta\\app\\src\\main\\res\\layout\\shr_product_card.xml"
+    },
+    {
+        "merged": "D:\\Desarrollo-movil-main\\Celecta\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_comments_detail_dialog.xml",
+        "source": "D:\\Desarrollo-movil-main\\Celecta\\app\\src\\main\\res\\layout\\fragment_comments_detail_dialog.xml"
+    },
+    {
+        "merged": "D:\\Desarrollo-movil-main\\Celecta\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\shr_staggered_product_card_first.xml",
+        "source": "D:\\Desarrollo-movil-main\\Celecta\\app\\src\\main\\res\\layout\\shr_staggered_product_card_first.xml"
+    },
+    {
+        "merged": "D:\\Desarrollo-movil-main\\Celecta\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_coments.xml",
+        "source": "D:\\Desarrollo-movil-main\\Celecta\\app\\src\\main\\res\\layout\\fragment_coments.xml"
+    },
+    {
+        "merged": "D:\\Desarrollo-movil-main\\Celecta\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_product.xml",
+        "source": "D:\\Desarrollo-movil-main\\Celecta\\app\\src\\main\\res\\layout\\item_product.xml"
+    },
+    {
+        "merged": "D:\\Desarrollo-movil-main\\Celecta\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_login.xml",
+        "source": "D:\\Desarrollo-movil-main\\Celecta\\app\\src\\main\\res\\layout\\fragment_login.xml"
+    },
+    {
+        "merged": "D:\\Desarrollo-movil-main\\Celecta\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_splash_screen.xml",
+        "source": "D:\\Desarrollo-movil-main\\Celecta\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "D:\\Desarrollo-movil-main\\Celecta\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_order.xml",
+        "source": "D:\\Desarrollo-movil-main\\Celecta\\app\\src\\main\\res\\layout\\fragment_order.xml"
+    }
+]
