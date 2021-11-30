@@ -6,7 +6,7 @@ import android.os.Bundle
 import android.widget.RelativeLayout
 import androidx.navigation.fragment.NavHostFragment
 import com.google.android.material.bottomnavigation.BottomNavigationItemView
-import com.mintic22.celecta.R
+
 import com.mintic22.celecta.view.ui.fragments.HomeFragment
 import com.mintic22.celecta.view.ui.fragments.OederFragment
 import com.mintic22.celecta.view.ui.fragments.ComentsFragment

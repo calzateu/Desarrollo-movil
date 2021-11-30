@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Desarrollo-movil-main\\Celecta\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ldrtl-v17\\values-ldrtl-v17.xml",
+            "outputFile": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Johan/Desarrollo-movil/Celecta/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldrtl-v17/values-ldrtl-v17.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Asus M409D\\.gradle\\caches\\transforms-3\\bcb18358585a03dbcbdb147697d35798\\transformed\\material-1.4.0\\res\\values-ldrtl-v17\\values-ldrtl-v17.xml",
+                    "source": "/home/cristian/.gradle/caches/transforms-3/bcb18358585a03dbcbdb147697d35798/transformed/material-1.4.0/res/values-ldrtl-v17/values-ldrtl-v17.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",

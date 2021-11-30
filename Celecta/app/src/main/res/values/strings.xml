@@ -24,4 +24,6 @@
     <string name="shr_dresses_label">Dresses</string>
     <string name="shr_account_label">My Account</string>
     <string name="shr_logo_content_description">Shrine Logo</string>
+
+    <string name="navigate_edit">Editar datos</string>
 </resources>

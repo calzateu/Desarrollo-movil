@@ -24,12 +24,12 @@ com/mintic22/celecta/databinding/FragmentOrderDetailDialogBinding.java
  com.mintic22.celecta.databinding.FragmentOrderDetailDialogBinding
 com/mintic22/celecta/databinding/FragmentAdminDetailDialogBinding.java
  com.mintic22.celecta.databinding.FragmentAdminDetailDialogBinding
-com/mintic22/celecta/databinding/ShrStaggeredProductCardSecondBinding.java
- com.mintic22.celecta.databinding.ShrStaggeredProductCardSecondBinding
-com/mintic22/celecta/databinding/ShrStaggeredProductCardFirstBinding.java
- com.mintic22.celecta.databinding.ShrStaggeredProductCardFirstBinding
 com/mintic22/celecta/databinding/ShrProductGridFragmentBinding.java
  com.mintic22.celecta.databinding.ShrProductGridFragmentBinding
+com/mintic22/celecta/databinding/ShrStaggeredProductCardFirstBinding.java
+ com.mintic22.celecta.databinding.ShrStaggeredProductCardFirstBinding
+com/mintic22/celecta/databinding/ShrStaggeredProductCardSecondBinding.java
+ com.mintic22.celecta.databinding.ShrStaggeredProductCardSecondBinding
 com/mintic22/celecta/databinding/FragmentOrderBinding.java
  com.mintic22.celecta.databinding.FragmentOrderBinding
 com/mintic22/celecta/databinding/FragmentAdminBinding.java

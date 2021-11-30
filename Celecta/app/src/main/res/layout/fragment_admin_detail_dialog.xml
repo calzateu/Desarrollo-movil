@@ -58,7 +58,7 @@
                     android:gravity="center_horizontal"/>
 
                 <EditText
-                    android:id="@+id/etEmailAdmin"
+                    android:id="@+id/etMailAdmin"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="@dimen/defaultLayoutMargin"

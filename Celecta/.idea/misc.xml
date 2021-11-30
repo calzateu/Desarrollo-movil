@@ -29,6 +29,8 @@
         <entry key="..\:/Desarrollo-movil-main/Celecta/app/src/main/res/menu/menu.xml" value="0.20416666666666666" />
         <entry key="..\:/Desarrollo-movil-main/Celecta/app/src/main/res/menu/shr_toolbar_menu.xml" value="0.20416666666666666" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.1408514492753623" />
+        <entry key="app/src/main/res/layout/fragment_admin.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/fragment_admin_detail_dialog.xml" value="0.25" />
         <entry key="app/src/main/res/layout/fragment_home.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment_login.xml" value="0.25" />
         <entry key="app/src/main/res/menu/bnv_menu.xml" value="0.19322916666666667" />

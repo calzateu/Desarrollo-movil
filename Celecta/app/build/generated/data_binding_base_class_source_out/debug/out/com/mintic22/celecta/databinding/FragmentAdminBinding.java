@@ -4,9 +4,11 @@ package com.mintic22.celecta.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.Button;
 import android.widget.EditText;
 import android.widget.FrameLayout;
 import android.widget.ImageView;
+import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.viewbinding.ViewBinding;
@@ -26,11 +28,33 @@ public final class FragmentAdminBinding implements ViewBinding {
   @NonNull
   public final ImageView imageView11;
 
+  @NonNull
+  public final Button navigateEdition;
+
+  @NonNull
+  public final TextView tvAddressAdmin;
+
+  @NonNull
+  public final TextView tvMailAdmin;
+
+  @NonNull
+  public final TextView tvNameAdmin;
+
+  @NonNull
+  public final TextView tvPhoneAdmin;
+
   private FragmentAdminBinding(@NonNull FrameLayout rootView, @NonNull EditText fad1,
-      @NonNull ImageView imageView11) {
+      @NonNull ImageView imageView11, @NonNull Button navigateEdition,
+      @NonNull TextView tvAddressAdmin, @NonNull TextView tvMailAdmin,
+      @NonNull TextView tvNameAdmin, @NonNull TextView tvPhoneAdmin) {
     this.rootView = rootView;
     this.fad1 = fad1;
     this.imageView11 = imageView11;
+    this.navigateEdition = navigateEdition;
+    this.tvAddressAdmin = tvAddressAdmin;
+    this.tvMailAdmin = tvMailAdmin;
+    this.tvNameAdmin = tvNameAdmin;
+    this.tvPhoneAdmin = tvPhoneAdmin;
   }
 
   @Override
@@ -72,7 +96,38 @@ public final class FragmentAdminBinding implements ViewBinding {
         break missingId;
       }
 
-      return new FragmentAdminBinding((FrameLayout) rootView, fad1, imageView11);
+      id = R.id.navigate_edition;
+      Button navigateEdition = ViewBindings.findChildViewById(rootView, id);
+      if (navigateEdition == null) {
+        break missingId;
+      }
+
+      id = R.id.tvAddressAdmin;
+      TextView tvAddressAdmin = ViewBindings.findChildViewById(rootView, id);
+      if (tvAddressAdmin == null) {
+        break missingId;
+      }
+
+      id = R.id.tvMailAdmin;
+      TextView tvMailAdmin = ViewBindings.findChildViewById(rootView, id);
+      if (tvMailAdmin == null) {
+        break missingId;
+      }
+
+      id = R.id.tvNameAdmin;
+      TextView tvNameAdmin = ViewBindings.findChildViewById(rootView, id);
+      if (tvNameAdmin == null) {
+        break missingId;
+      }
+
+      id = R.id.tvPhoneAdmin;
+      TextView tvPhoneAdmin = ViewBindings.findChildViewById(rootView, id);
+      if (tvPhoneAdmin == null) {
+        break missingId;
+      }
+
+      return new FragmentAdminBinding((FrameLayout) rootView, fad1, imageView11, navigateEdition,
+          tvAddressAdmin, tvMailAdmin, tvNameAdmin, tvPhoneAdmin);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

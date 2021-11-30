@@ -2108,7 +2108,7 @@ int id enterAlwaysCollapsed 0x7f0900bf
 int id etAddressAdmin 0x7f0900c0
 int id etComments 0x7f0900c1
 int id etComments1 0x7f0900c2
-int id etEmailAdmin 0x7f0900c3
+int id etMailAdmin 0x7f090214
 int id etNameAdmin 0x7f0900c4
 int id etPhoneAdmin 0x7f0900c5
 int id exitUntilCollapsed 0x7f0900c6
@@ -2245,6 +2245,8 @@ int id nav_boto 0x7f090148
 int id nav_controller_view_tag 0x7f090149
 int id nav_graph 0x7f09014a
 int id nav_host_fragment_container 0x7f09014b
+int id navigate_action_button 0x7f090215
+int id navigate_edition 0x7f090216
 int id navigation_bar_item_icon_view 0x7f09014c
 int id navigation_bar_item_labels_group 0x7f09014d
 int id navigation_bar_item_large_label_view 0x7f09014e
@@ -2420,9 +2422,13 @@ int id transition_position 0x7f0901f7
 int id transition_scene_layoutid_cache 0x7f0901f8
 int id transition_transform 0x7f0901f9
 int id triangle 0x7f0901fa
+int id tvAddressAdmin 0x7f090217
 int id tvItemCommentsComment 0x7f0901fb
 int id tvItemCommentsScore 0x7f0901fc
 int id tvItemCommentsUser 0x7f0901fd
+int id tvMailAdmin 0x7f090218
+int id tvNameAdmin 0x7f090219
+int id tvPhoneAdmin 0x7f09021a
 int id unchecked 0x7f0901fe
 int id uniform 0x7f0901ff
 int id unlabeled 0x7f090200
@@ -2737,6 +2743,7 @@ int string mtrl_picker_toggle_to_text_input_mode 0x7f120062
 int string mtrl_picker_toggle_to_year_selection 0x7f120063
 int string nav_app_bar_navigate_up_description 0x7f120064
 int string nav_app_bar_open_drawer_description 0x7f120065
+int string navigate_edit 0x7f120080
 int string password_toggle_content_description 0x7f120066
 int string path_password_eye 0x7f120067
 int string path_password_eye_mask_strike_through 0x7f120068

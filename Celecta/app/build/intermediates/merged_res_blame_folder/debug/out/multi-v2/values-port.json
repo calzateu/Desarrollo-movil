@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Desarrollo-movil-main\\Celecta\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-port\\values-port.xml",
+            "outputFile": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Johan/Desarrollo-movil/Celecta/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Asus M409D\\.gradle\\caches\\transforms-3\\49653088c52a1e72fc2e80fdf4de1567\\transformed\\appcompat-1.4.0\\res\\values-port\\values-port.xml",
+                    "source": "/home/cristian/.gradle/caches/transforms-3/49653088c52a1e72fc2e80fdf4de1567/transformed/appcompat-1.4.0/res/values-port/values-port.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

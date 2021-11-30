@@ -28,7 +28,7 @@ public final class FragmentAdminDetailDialogBinding implements ViewBinding {
   public final EditText etAddressAdmin;
 
   @NonNull
-  public final EditText etEmailAdmin;
+  public final EditText etMailAdmin;
 
   @NonNull
   public final EditText etNameAdmin;
@@ -41,12 +41,12 @@ public final class FragmentAdminDetailDialogBinding implements ViewBinding {
 
   private FragmentAdminDetailDialogBinding(@NonNull FrameLayout rootView,
       @NonNull Button btSaveChanges, @NonNull EditText etAddressAdmin,
-      @NonNull EditText etEmailAdmin, @NonNull EditText etNameAdmin, @NonNull EditText etPhoneAdmin,
+      @NonNull EditText etMailAdmin, @NonNull EditText etNameAdmin, @NonNull EditText etPhoneAdmin,
       @NonNull ImageButton ibPhotoAdmin) {
     this.rootView = rootView;
     this.btSaveChanges = btSaveChanges;
     this.etAddressAdmin = etAddressAdmin;
-    this.etEmailAdmin = etEmailAdmin;
+    this.etMailAdmin = etMailAdmin;
     this.etNameAdmin = etNameAdmin;
     this.etPhoneAdmin = etPhoneAdmin;
     this.ibPhotoAdmin = ibPhotoAdmin;
@@ -91,9 +91,9 @@ public final class FragmentAdminDetailDialogBinding implements ViewBinding {
         break missingId;
       }
 
-      id = R.id.etEmailAdmin;
-      EditText etEmailAdmin = ViewBindings.findChildViewById(rootView, id);
-      if (etEmailAdmin == null) {
+      id = R.id.etMailAdmin;
+      EditText etMailAdmin = ViewBindings.findChildViewById(rootView, id);
+      if (etMailAdmin == null) {
         break missingId;
       }
 
@@ -116,7 +116,7 @@ public final class FragmentAdminDetailDialogBinding implements ViewBinding {
       }
 
       return new FragmentAdminDetailDialogBinding((FrameLayout) rootView, btSaveChanges,
-          etAddressAdmin, etEmailAdmin, etNameAdmin, etPhoneAdmin, ibPhotoAdmin);
+          etAddressAdmin, etMailAdmin, etNameAdmin, etPhoneAdmin, ibPhotoAdmin);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));
