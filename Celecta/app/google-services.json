@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "144382387583",
+    "project_id": "celecta-d400b",
+    "storage_bucket": "celecta-d400b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144382387583:android:2785a595a1597cca3be64a",
+        "android_client_info": {
+          "package_name": "com.mintic22.celecta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144382387583-qnlfefofjcjt5dopehok9ror9qd67fd0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mintic22.celecta",
+            "certificate_hash": "f7c78bd1a16393bbed603a93531c2136d4f64500"
+          }
+        },
+        {
+          "client_id": "144382387583-4l71lhmse51lqvicdpvccj0h77618s7s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHYKaSHYJuwCd-QDuL6Bfny-TMwr07Pik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144382387583-4l71lhmse51lqvicdpvccj0h77618s7s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

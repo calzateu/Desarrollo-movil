@@ -52,6 +52,9 @@ dependencies {
     androidTestImplementation 'androidx.test:core:1.1.0'
     androidTestImplementation 'androidx.test:runner:1.2.0-alpha05'
 
+    implementation 'com.google.firebase:firebase-auth:21.0.1'
+    implementation 'com.google.firebase:firebase-firestore-ktx:23.0.3'
+
     //Añadimos la dependencia de RecyclerView
     api 'androidx.recyclerview:recyclerview:1.1.0'
 
@@ -61,5 +64,18 @@ dependencies {
 
     implementation "com.squareup.picasso:picasso:2.8"
 
+    implementation 'com.google.firebase:firebase-auth:21.0.1'
+    implementation 'com.google.firebase:firebase-firestore-ktx:23.0.3'
+
+    // Import the Firebase BoM
+    implementation platform('com.google.firebase:firebase-bom:28.3.0')
+
+    //Añadimos la dependencia de Firebase UI
+    implementation 'com.firebaseui:firebase-ui-auth:7.2.0'
+
+    implementation 'com.google.firebase:firebase-core:9.6.1'
 
 }
+
+// ADD THIS AT THE BOTTOM
+apply plugin: 'com.google.gms.google-services'

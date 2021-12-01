@@ -1,70 +1,70 @@
 [
     {
-        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Johan/Desarrollo-movil/Celecta/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/shr_product_card.xml",
-        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Johan/Desarrollo-movil/Celecta/app/src/main/res/layout/shr_product_card.xml"
+        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/shr_staggered_product_card_first.xml",
+        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/res/layout/shr_staggered_product_card_first.xml"
     },
     {
-        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Johan/Desarrollo-movil/Celecta/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_order_detail_dialog.xml",
-        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Johan/Desarrollo-movil/Celecta/app/src/main/res/layout/fragment_order_detail_dialog.xml"
+        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_splash_screen.xml",
+        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/res/layout/activity_splash_screen.xml"
     },
     {
-        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Johan/Desarrollo-movil/Celecta/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_product.xml",
-        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Johan/Desarrollo-movil/Celecta/app/src/main/res/layout/item_product.xml"
+        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_comments_detail_dialog.xml",
+        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/res/layout/fragment_comments_detail_dialog.xml"
     },
     {
-        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Johan/Desarrollo-movil/Celecta/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/shr_product_grid_fragment.xml",
-        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Johan/Desarrollo-movil/Celecta/app/src/main/res/layout/shr_product_grid_fragment.xml"
+        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/shr_product_card.xml",
+        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/res/layout/shr_product_card.xml"
     },
     {
-        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Johan/Desarrollo-movil/Celecta/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_order.xml",
-        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Johan/Desarrollo-movil/Celecta/app/src/main/res/layout/fragment_order.xml"
+        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_admin_detail_dialog.xml",
+        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/res/layout/fragment_admin_detail_dialog.xml"
     },
     {
-        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Johan/Desarrollo-movil/Celecta/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_coments.xml",
-        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Johan/Desarrollo-movil/Celecta/app/src/main/res/layout/fragment_coments.xml"
+        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/shr_staggered_product_card_second.xml",
+        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/res/layout/shr_staggered_product_card_second.xml"
     },
     {
-        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Johan/Desarrollo-movil/Celecta/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_comments_detail_dialog.xml",
-        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Johan/Desarrollo-movil/Celecta/app/src/main/res/layout/fragment_comments_detail_dialog.xml"
+        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/shr_product_grid_fragment.xml",
+        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/res/layout/shr_product_grid_fragment.xml"
     },
     {
-        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Johan/Desarrollo-movil/Celecta/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_admin_detail_dialog.xml",
-        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Johan/Desarrollo-movil/Celecta/app/src/main/res/layout/fragment_admin_detail_dialog.xml"
+        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_coments.xml",
+        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/res/layout/fragment_coments.xml"
     },
     {
-        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Johan/Desarrollo-movil/Celecta/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_home.xml",
-        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Johan/Desarrollo-movil/Celecta/app/src/main/res/layout/fragment_home.xml"
+        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_home.xml",
+        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/res/layout/fragment_home.xml"
     },
     {
-        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Johan/Desarrollo-movil/Celecta/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
-        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Johan/Desarrollo-movil/Celecta/app/src/main/res/layout/activity_main.xml"
+        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_admin.xml",
+        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/res/layout/fragment_admin.xml"
     },
     {
-        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Johan/Desarrollo-movil/Celecta/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/shr_staggered_product_card_second.xml",
-        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Johan/Desarrollo-movil/Celecta/app/src/main/res/layout/shr_staggered_product_card_second.xml"
+        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/res/layout/activity_main.xml"
     },
     {
-        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Johan/Desarrollo-movil/Celecta/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/shr_staggered_product_card_third.xml",
-        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Johan/Desarrollo-movil/Celecta/app/src/main/res/layout/shr_staggered_product_card_third.xml"
+        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_order_detail_dialog.xml",
+        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/res/layout/fragment_order_detail_dialog.xml"
     },
     {
-        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Johan/Desarrollo-movil/Celecta/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_login.xml",
-        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Johan/Desarrollo-movil/Celecta/app/src/main/res/layout/fragment_login.xml"
+        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/shr_staggered_product_card_third.xml",
+        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/res/layout/shr_staggered_product_card_third.xml"
     },
     {
-        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Johan/Desarrollo-movil/Celecta/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_splash_screen.xml",
-        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Johan/Desarrollo-movil/Celecta/app/src/main/res/layout/activity_splash_screen.xml"
+        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_login.xml",
+        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/res/layout/activity_login.xml"
     },
     {
-        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Johan/Desarrollo-movil/Celecta/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/shr_staggered_product_card_first.xml",
-        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Johan/Desarrollo-movil/Celecta/app/src/main/res/layout/shr_staggered_product_card_first.xml"
+        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_order.xml",
+        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/res/layout/fragment_order.xml"
     },
     {
-        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Johan/Desarrollo-movil/Celecta/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_admin.xml",
-        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Johan/Desarrollo-movil/Celecta/app/src/main/res/layout/fragment_admin.xml"
+        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_product.xml",
+        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/res/layout/item_product.xml"
     },
     {
-        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Johan/Desarrollo-movil/Celecta/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_comments.xml",
-        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Johan/Desarrollo-movil/Celecta/app/src/main/res/layout/item_comments.xml"
+        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_comments.xml",
+        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/res/layout/item_comments.xml"
     }
 ]

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Johan/Desarrollo-movil/Celecta/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-large-v4/values-large-v4.xml",
+            "outputFile": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-large-v4/values-large-v4.xml",
             "map": [
                 {
-                    "source": "/home/cristian/.gradle/caches/transforms-3/bcb18358585a03dbcbdb147697d35798/transformed/material-1.4.0/res/values-large-v4/values-large-v4.xml",
+                    "source": "/home/cristian/.gradle/caches/transforms-3/a7ace62b96569814c3bc8fb39f339b37/transformed/material-1.4.0/res/values-large-v4/values-large-v4.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/home/cristian/.gradle/caches/transforms-3/49653088c52a1e72fc2e80fdf4de1567/transformed/appcompat-1.4.0/res/values-large-v4/values-large-v4.xml",
+                    "source": "/home/cristian/.gradle/caches/transforms-3/c38abbd96eb8006fed04eff3ca91da27/transformed/appcompat-1.4.0/res/values-large-v4/values-large-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
                         "startColumns": "4,4,4,4,4,4,4,4,4",

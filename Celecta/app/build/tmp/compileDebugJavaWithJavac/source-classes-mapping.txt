@@ -1,7 +1,7 @@
+com/mintic22/celecta/BuildConfig.java
+ com.mintic22.celecta.BuildConfig
 com/mintic22/celecta/databinding/ItemCommentsBinding.java
  com.mintic22.celecta.databinding.ItemCommentsBinding
-com/mintic22/celecta/databinding/FragmentLoginBinding.java
- com.mintic22.celecta.databinding.FragmentLoginBinding
 com/mintic22/celecta/databinding/FragmentHomeBinding.java
  com.mintic22.celecta.databinding.FragmentHomeBinding
 com/mintic22/celecta/databinding/ShrProductCardBinding.java
@@ -14,8 +14,8 @@ com/mintic22/celecta/databinding/FragmentComentsBinding.java
  com.mintic22.celecta.databinding.FragmentComentsBinding
 com/mintic22/celecta/databinding/FragmentCommentsDetailDialogBinding.java
  com.mintic22.celecta.databinding.FragmentCommentsDetailDialogBinding
-com/mintic22/celecta/BuildConfig.java
- com.mintic22.celecta.BuildConfig
+com/mintic22/celecta/databinding/ActivityLoginBinding.java
+ com.mintic22.celecta.databinding.ActivityLoginBinding
 com/mintic22/celecta/databinding/ActivitySplashScreenBinding.java
  com.mintic22.celecta.databinding.ActivitySplashScreenBinding
 com/mintic22/celecta/databinding/ItemProductBinding.java
