@@ -77,5 +77,8 @@ dependencies {
 
     implementation 'com.google.firebase:firebase-core:9.6.1'
 
+    //Añadimos la dependencia para google maps
+    implementation 'com.google.android.gms:play-services-maps:17.0.0'
+
 }
 

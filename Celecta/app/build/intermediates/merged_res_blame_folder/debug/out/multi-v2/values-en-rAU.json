@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rAU\\values-en-rAU.xml",
+            "outputFile": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rAU/values-en-rAU.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Laura Caicedo\\.gradle\\caches\\transforms-3\\04f380ba4551de37cf3d6d371047661f\\transformed\\jetified-firebase-ui-auth-7.2.0\\res\\values-en-rAU\\values-en-rAU.xml",
+                    "source": "/home/cristian/.gradle/caches/transforms-3/04f380ba4551de37cf3d6d371047661f/transformed/jetified-firebase-ui-auth-7.2.0/res/values-en-rAU/values-en-rAU.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Laura Caicedo\\.gradle\\caches\\transforms-3\\c38abbd96eb8006fed04eff3ca91da27\\transformed\\appcompat-1.4.0\\res\\values-en-rAU\\values-en-rAU.xml",
+                    "source": "/home/cristian/.gradle/caches/transforms-3/c38abbd96eb8006fed04eff3ca91da27/transformed/appcompat-1.4.0/res/values-en-rAU/values-en-rAU.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -38,7 +38,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Laura Caicedo\\.gradle\\caches\\transforms-3\\5800429c1657bb2141de699403d346a1\\transformed\\navigation-ui-2.3.3\\res\\values-en-rAU\\values-en-rAU.xml",
+                    "source": "/home/cristian/.gradle/caches/transforms-3/5800429c1657bb2141de699403d346a1/transformed/navigation-ui-2.3.3/res/values-en-rAU/values-en-rAU.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
@@ -55,7 +55,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Laura Caicedo\\.gradle\\caches\\transforms-3\\fcf9809177463de5688ae7dcc8f2ba03\\transformed\\core-1.7.0\\res\\values-en-rAU\\values-en-rAU.xml",
+                    "source": "/home/cristian/.gradle/caches/transforms-3/fcf9809177463de5688ae7dcc8f2ba03/transformed/core-1.7.0/res/values-en-rAU/values-en-rAU.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

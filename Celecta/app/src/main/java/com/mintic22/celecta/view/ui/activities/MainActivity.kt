@@ -36,7 +36,7 @@ class MainActivity : AppCompatActivity() {
             when(it.itemId){
                 R.id.navHomeFragment -> replaceFragment(homeFragment)
                 R.id.navCommentsFragment -> replaceFragment(commentsDetailDialogFragment)
-                R.id.navOrderFragment -> replaceFragment(orderDetailDialogFragment)
+                R.id.navOrderFragment -> replaceFragment(orderFragment)
                 R.id.navAdminFragment -> replaceFragment(adminFragment)
             }
             true

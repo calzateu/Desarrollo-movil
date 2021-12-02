@@ -4,20 +4,37 @@ package com.mintic22.celecta.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ImageView;
+import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.cardview.widget.CardView;
 import androidx.viewbinding.ViewBinding;
+import androidx.viewbinding.ViewBindings;
 import com.mintic22.celecta.R;
 import java.lang.NullPointerException;
 import java.lang.Override;
+import java.lang.String;
 
 public final class ItemProductBinding implements ViewBinding {
   @NonNull
   private final CardView rootView;
 
-  private ItemProductBinding(@NonNull CardView rootView) {
+  @NonNull
+  public final ImageView ivItemProduct;
+
+  @NonNull
+  public final TextView tvItemNameProduct;
+
+  @NonNull
+  public final TextView tvItemPriceProduct;
+
+  private ItemProductBinding(@NonNull CardView rootView, @NonNull ImageView ivItemProduct,
+      @NonNull TextView tvItemNameProduct, @NonNull TextView tvItemPriceProduct) {
     this.rootView = rootView;
+    this.ivItemProduct = ivItemProduct;
+    this.tvItemNameProduct = tvItemNameProduct;
+    this.tvItemPriceProduct = tvItemPriceProduct;
   }
 
   @Override
@@ -43,10 +60,32 @@ public final class ItemProductBinding implements ViewBinding {
 
   @NonNull
   public static ItemProductBinding bind(@NonNull View rootView) {
-    if (rootView == null) {
-      throw new NullPointerException("rootView");
-    }
+    // The body of this method is generated in a way you would not otherwise write.
+    // This is done to optimize the compiled bytecode for size and performance.
+    int id;
+    missingId: {
+      id = R.id.ivItemProduct;
+      ImageView ivItemProduct = ViewBindings.findChildViewById(rootView, id);
+      if (ivItemProduct == null) {
+        break missingId;
+      }
 
-    return new ItemProductBinding((CardView) rootView);
+      id = R.id.tvItemNameProduct;
+      TextView tvItemNameProduct = ViewBindings.findChildViewById(rootView, id);
+      if (tvItemNameProduct == null) {
+        break missingId;
+      }
+
+      id = R.id.tvItemPriceProduct;
+      TextView tvItemPriceProduct = ViewBindings.findChildViewById(rootView, id);
+      if (tvItemPriceProduct == null) {
+        break missingId;
+      }
+
+      return new ItemProductBinding((CardView) rootView, ivItemProduct, tvItemNameProduct,
+          tvItemPriceProduct);
+    }
+    String missingId = rootView.getResources().getResourceName(id);
+    throw new NullPointerException("Missing required view with ID: ".concat(missingId));
   }
 }

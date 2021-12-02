@@ -2588,8 +2588,11 @@ id trouble_signing_in
 id trouble_signing_in_possible_fixes
 id tvAddressAdmin
 id tvDescriptionProduct
+id tvItemCommentsComment
 id tvItemCommentsScore
 id tvItemCommentsUser
+id tvItemNameProduct
+id tvItemPriceProduct
 id tvMailAdmin
 id tvNameAdmin
 id tvNameProduct
