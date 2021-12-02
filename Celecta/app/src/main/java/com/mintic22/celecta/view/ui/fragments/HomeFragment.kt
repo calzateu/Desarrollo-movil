@@ -7,6 +7,14 @@ import android.view.View
 import android.view.ViewGroup
 import com.mintic22.celecta.R
 
+import com.google.android.gms.maps.CameraUpdateFactory
+import com.google.android.gms.maps.GoogleMap
+import com.google.android.gms.maps.OnMapReadyCallback
+import com.google.android.gms.maps.SupportMapFragment
+import com.google.android.gms.maps.model.LatLng
+//import com.google.type.LatLng
+import com.mintic22.celecta.model.Ubication
+
 // TODO: Rename parameter arguments, choose names that match
 // the fragment initialization parameters, e.g. ARG_ITEM_NUMBER
 private const val ARG_PARAM1 = "param1"
@@ -36,6 +44,13 @@ class HomeFragment : Fragment() {
     ): View? {
         // Inflate the layout for this fragment
         return inflater.inflate(R.layout.fragment_home, container, false)
+    }
+
+    fun onMapReady(p0: GoogleMap?){
+        val ubication = Ubication()
+        val zoom = 16f
+        val centerMap = LatLng(ubication.latitude, ubication.longitude)
+        p0?.animateCamera(CameraUpdateFactory.newLatLngZoom(centerMap,zoom))
     }
 
     companion object {

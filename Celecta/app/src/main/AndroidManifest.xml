@@ -12,6 +12,11 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Celecta">
+
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyDML56GlU7h1nkoYjhwqNL-nodWlPcoRYE"/>
+
         <activity
             android:name=".view.ui.activities.LoginActivity"
             android:exported="true" />

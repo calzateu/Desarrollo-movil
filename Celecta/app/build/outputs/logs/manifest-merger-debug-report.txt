@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/AndroidManifest.xml:2:1-38:12
-INJECTED from /home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/AndroidManifest.xml:2:1-38:12
-INJECTED from /home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/AndroidManifest.xml:2:1-38:12
-INJECTED from /home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/AndroidManifest.xml:2:1-38:12
+ADDED from /home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/AndroidManifest.xml:2:1-43:12
 MERGED from [com.firebaseui:firebase-ui-auth:7.2.0] /home/cristian/.gradle/caches/transforms-3/04f380ba4551de37cf3d6d371047661f/transformed/jetified-firebase-ui-auth-7.2.0/AndroidManifest.xml:2:1-109:12
 MERGED from [androidx.navigation:navigation-ui-ktx:2.3.3] /home/cristian/.gradle/caches/transforms-3/d45347505d45e9567bc2433bb136c4bf/transformed/navigation-ui-ktx-2.3.3/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.navigation:navigation-ui:2.3.3] /home/cristian/.gradle/caches/transforms-3/5800429c1657bb2141de699403d346a1/transformed/navigation-ui-2.3.3/AndroidManifest.xml:17:1-24:12
@@ -32,6 +32,7 @@ MERGED from [io.grpc:grpc-android:1.28.0] /home/cristian/.gradle/caches/transfor
 MERGED from [com.google.firebase:firebase-auth:21.0.1] /home/cristian/.gradle/caches/transforms-3/10a3f8dafe288fd4edc7c2bfe34ddc77/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:17:1-83:12
 MERGED from [com.squareup.picasso:picasso:2.8] /home/cristian/.gradle/caches/transforms-3/bb0c85ff43292d17695b651f7b5b29e9/transformed/jetified-picasso-2.8/AndroidManifest.xml:2:1-14:12
 MERGED from [com.google.firebase:firebase-core:19.0.0] /home/cristian/.gradle/caches/transforms-3/c3be867b2e417d9ed1b98f2c65e180f2/transformed/jetified-firebase-core-19.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/cristian/.gradle/caches/transforms-3/e408dd63df737230726618cd0f99b87e/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:17:1-38:12
 MERGED from [com.google.firebase:firebase-analytics:19.0.0] /home/cristian/.gradle/caches/transforms-3/f00437ed4a93d1825ecd997d69b8b7f0/transformed/jetified-firebase-analytics-19.0.0/AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /home/cristian/.gradle/caches/transforms-3/760ae2639abc9b35ebec75bf6e152ef2/transformed/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:2:1-10:12
 MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] /home/cristian/.gradle/caches/transforms-3/0704aee2619f808aa3540dc278ee8445/transformed/jetified-play-services-measurement-api-19.0.0/AndroidManifest.xml:17:1-36:12
@@ -102,20 +103,20 @@ MERGED from [androidx.print:print:1.0.0] /home/cristian/.gradle/caches/transform
 MERGED from [androidx.interpolator:interpolator:1.0.0] /home/cristian/.gradle/caches/transforms-3/d394b1598643397b3b45b6d2026e95c8/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/cristian/.gradle/caches/transforms-3/2490b8acbeba8ea394aa1ecca1a7e1bd/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] /home/cristian/.gradle/caches/transforms-3/1cc5602cec9062c18834e55c19a295a4/transformed/jetified-protolite-well-known-types-18.0.0/AndroidManifest.xml:2:1-11:12
-INJECTED from /home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/AndroidManifest.xml:2:1-38:12
-INJECTED from /home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/AndroidManifest.xml:2:1-38:12
-INJECTED from /home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/AndroidManifest.xml:2:1-43:12
 	package
 		ADDED from /home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/AndroidManifest.xml:3:5-35
 		INJECTED from /home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/AndroidManifest.xml
 		INJECTED from /home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/AndroidManifest.xml
-		ADDED from /home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/AndroidManifest.xml:2:1-38:12
+		ADDED from /home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/AndroidManifest.xml:2:1-43:12
 		INJECTED from /home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/AndroidManifest.xml
-		ADDED from /home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/AndroidManifest.xml:2:1-38:12
+		ADDED from /home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/AndroidManifest.xml:2:1-43:12
 		INJECTED from /home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/AndroidManifest.xml:2:11-69
@@ -127,6 +128,8 @@ MERGED from [com.google.firebase:firebase-firestore:23.0.3] /home/cristian/.grad
 MERGED from [com.google.firebase:firebase-firestore:23.0.3] /home/cristian/.gradle/caches/transforms-3/2c88e7f48db2ad10020a4b50515d596c/transformed/jetified-firebase-firestore-23.0.3/AndroidManifest.xml:14:5-67
 MERGED from [com.google.firebase:firebase-auth:21.0.1] /home/cristian/.gradle/caches/transforms-3/10a3f8dafe288fd4edc7c2bfe34ddc77/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:23:5-67
 MERGED from [com.google.firebase:firebase-auth:21.0.1] /home/cristian/.gradle/caches/transforms-3/10a3f8dafe288fd4edc7c2bfe34ddc77/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/cristian/.gradle/caches/transforms-3/e408dd63df737230726618cd0f99b87e/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/cristian/.gradle/caches/transforms-3/e408dd63df737230726618cd0f99b87e/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:24:5-67
 MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] /home/cristian/.gradle/caches/transforms-3/0704aee2619f808aa3540dc278ee8445/transformed/jetified-play-services-measurement-api-19.0.0/AndroidManifest.xml:22:5-67
 MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] /home/cristian/.gradle/caches/transforms-3/0704aee2619f808aa3540dc278ee8445/transformed/jetified-play-services-measurement-api-19.0.0/AndroidManifest.xml:22:5-67
 MERGED from [com.google.firebase:firebase-installations:17.0.0] /home/cristian/.gradle/caches/transforms-3/d9144687532c62206093a651f4197d5f/transformed/jetified-firebase-installations-17.0.0/AndroidManifest.xml:11:5-67
@@ -149,6 +152,8 @@ MERGED from [io.grpc:grpc-android:1.28.0] /home/cristian/.gradle/caches/transfor
 MERGED from [io.grpc:grpc-android:1.28.0] /home/cristian/.gradle/caches/transforms-3/31969d08b9b01555de5ab251594a8cec/transformed/jetified-grpc-android-1.28.0/AndroidManifest.xml:11:5-79
 MERGED from [com.google.firebase:firebase-auth:21.0.1] /home/cristian/.gradle/caches/transforms-3/10a3f8dafe288fd4edc7c2bfe34ddc77/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:24:5-79
 MERGED from [com.google.firebase:firebase-auth:21.0.1] /home/cristian/.gradle/caches/transforms-3/10a3f8dafe288fd4edc7c2bfe34ddc77/transformed/jetified-firebase-auth-21.0.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/cristian/.gradle/caches/transforms-3/e408dd63df737230726618cd0f99b87e/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/cristian/.gradle/caches/transforms-3/e408dd63df737230726618cd0f99b87e/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:23:5-79
 MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] /home/cristian/.gradle/caches/transforms-3/0704aee2619f808aa3540dc278ee8445/transformed/jetified-play-services-measurement-api-19.0.0/AndroidManifest.xml:23:5-79
 MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] /home/cristian/.gradle/caches/transforms-3/0704aee2619f808aa3540dc278ee8445/transformed/jetified-play-services-measurement-api-19.0.0/AndroidManifest.xml:23:5-79
 MERGED from [com.google.firebase:firebase-installations:17.0.0] /home/cristian/.gradle/caches/transforms-3/d9144687532c62206093a651f4197d5f/transformed/jetified-firebase-installations-17.0.0/AndroidManifest.xml:10:5-79
@@ -162,7 +167,7 @@ MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] /h
 	android:name
 		ADDED from /home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/AndroidManifest.xml:6:22-76
 application
-ADDED from /home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/AndroidManifest.xml:8:5-36:19
+ADDED from /home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/AndroidManifest.xml:8:5-41:19
 MERGED from [com.firebaseui:firebase-ui-auth:7.2.0] /home/cristian/.gradle/caches/transforms-3/04f380ba4551de37cf3d6d371047661f/transformed/jetified-firebase-ui-auth-7.2.0/AndroidManifest.xml:15:5-107:19
 MERGED from [com.firebaseui:firebase-ui-auth:7.2.0] /home/cristian/.gradle/caches/transforms-3/04f380ba4551de37cf3d6d371047661f/transformed/jetified-firebase-ui-auth-7.2.0/AndroidManifest.xml:15:5-107:19
 MERGED from [com.google.android.material:material:1.4.0] /home/cristian/.gradle/caches/transforms-3/a7ace62b96569814c3bc8fb39f339b37/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
@@ -183,6 +188,8 @@ MERGED from [com.squareup.picasso:picasso:2.8] /home/cristian/.gradle/caches/tra
 MERGED from [com.squareup.picasso:picasso:2.8] /home/cristian/.gradle/caches/transforms-3/bb0c85ff43292d17695b651f7b5b29e9/transformed/jetified-picasso-2.8/AndroidManifest.xml:7:5-12:19
 MERGED from [com.google.firebase:firebase-core:19.0.0] /home/cristian/.gradle/caches/transforms-3/c3be867b2e417d9ed1b98f2c65e180f2/transformed/jetified-firebase-core-19.0.0/AndroidManifest.xml:7:5-20
 MERGED from [com.google.firebase:firebase-core:19.0.0] /home/cristian/.gradle/caches/transforms-3/c3be867b2e417d9ed1b98f2c65e180f2/transformed/jetified-firebase-core-19.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/cristian/.gradle/caches/transforms-3/e408dd63df737230726618cd0f99b87e/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/cristian/.gradle/caches/transforms-3/e408dd63df737230726618cd0f99b87e/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:30:5-36:19
 MERGED from [com.google.firebase:firebase-analytics:19.0.0] /home/cristian/.gradle/caches/transforms-3/f00437ed4a93d1825ecd997d69b8b7f0/transformed/jetified-firebase-analytics-19.0.0/AndroidManifest.xml:7:5-20
 MERGED from [com.google.firebase:firebase-analytics:19.0.0] /home/cristian/.gradle/caches/transforms-3/f00437ed4a93d1825ecd997d69b8b7f0/transformed/jetified-firebase-analytics-19.0.0/AndroidManifest.xml:7:5-20
 MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /home/cristian/.gradle/caches/transforms-3/760ae2639abc9b35ebec75bf6e152ef2/transformed/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:7:5-8:19
@@ -243,34 +250,40 @@ MERGED from [androidx.startup:startup-runtime:1.0.0] /home/cristian/.gradle/cach
 		ADDED from /home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/AndroidManifest.xml:9:9-35
 	android:theme
 		ADDED from /home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/AndroidManifest.xml:14:9-45
+meta-data#com.google.android.geo.API_KEY
+ADDED from /home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/AndroidManifest.xml:16:9-18:70
+	android:value
+		ADDED from /home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/AndroidManifest.xml:18:13-68
+	android:name
+		ADDED from /home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/AndroidManifest.xml:17:13-58
 activity#com.mintic22.celecta.view.ui.activities.LoginActivity
-ADDED from /home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/AndroidManifest.xml:15:9-17:39
+ADDED from /home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/AndroidManifest.xml:20:9-22:39
 	android:exported
-		ADDED from /home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/AndroidManifest.xml:17:13-36
+		ADDED from /home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/AndroidManifest.xml:22:13-36
 	android:name
-		ADDED from /home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/AndroidManifest.xml:16:13-61
+		ADDED from /home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/AndroidManifest.xml:21:13-61
 activity#com.mintic22.celecta.view.ui.activities.SplashScreenActivity
-ADDED from /home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/AndroidManifest.xml:18:9-26:20
+ADDED from /home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/AndroidManifest.xml:23:9-31:20
 	android:exported
-		ADDED from /home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/AndroidManifest.xml:20:13-36
+		ADDED from /home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/AndroidManifest.xml:25:13-36
 	android:name
-		ADDED from /home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/AndroidManifest.xml:19:13-68
+		ADDED from /home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/AndroidManifest.xml:24:13-68
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/AndroidManifest.xml:21:13-25:29
+ADDED from /home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/AndroidManifest.xml:26:13-30:29
 action#android.intent.action.MAIN
-ADDED from /home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/AndroidManifest.xml:22:17-69
+ADDED from /home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/AndroidManifest.xml:27:17-69
 	android:name
-		ADDED from /home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/AndroidManifest.xml:22:25-66
+		ADDED from /home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/AndroidManifest.xml:27:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/AndroidManifest.xml:24:17-77
+ADDED from /home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/AndroidManifest.xml:29:17-77
 	android:name
-		ADDED from /home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/AndroidManifest.xml:24:27-74
+		ADDED from /home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/AndroidManifest.xml:29:27-74
 activity#com.mintic22.celecta.view.ui.activities.MainActivity
-ADDED from /home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/AndroidManifest.xml:27:9-35:20
+ADDED from /home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/AndroidManifest.xml:32:9-40:20
 	android:exported
-		ADDED from /home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/AndroidManifest.xml:29:13-36
+		ADDED from /home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/AndroidManifest.xml:34:13-36
 	android:name
-		ADDED from /home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/AndroidManifest.xml:28:13-60
+		ADDED from /home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/AndroidManifest.xml:33:13-60
 uses-sdk
 INJECTED from /home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/AndroidManifest.xml
@@ -331,6 +344,8 @@ MERGED from [com.squareup.picasso:picasso:2.8] /home/cristian/.gradle/caches/tra
 MERGED from [com.squareup.picasso:picasso:2.8] /home/cristian/.gradle/caches/transforms-3/bb0c85ff43292d17695b651f7b5b29e9/transformed/jetified-picasso-2.8/AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-core:19.0.0] /home/cristian/.gradle/caches/transforms-3/c3be867b2e417d9ed1b98f2c65e180f2/transformed/jetified-firebase-core-19.0.0/AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-core:19.0.0] /home/cristian/.gradle/caches/transforms-3/c3be867b2e417d9ed1b98f2c65e180f2/transformed/jetified-firebase-core-19.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/cristian/.gradle/caches/transforms-3/e408dd63df737230726618cd0f99b87e/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/cristian/.gradle/caches/transforms-3/e408dd63df737230726618cd0f99b87e/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-analytics:19.0.0] /home/cristian/.gradle/caches/transforms-3/f00437ed4a93d1825ecd997d69b8b7f0/transformed/jetified-firebase-analytics-19.0.0/AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-analytics:19.0.0] /home/cristian/.gradle/caches/transforms-3/f00437ed4a93d1825ecd997d69b8b7f0/transformed/jetified-firebase-analytics-19.0.0/AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /home/cristian/.gradle/caches/transforms-3/760ae2639abc9b35ebec75bf6e152ef2/transformed/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:5:5-44
@@ -757,6 +772,18 @@ ADDED from [com.squareup.picasso:picasso:2.8] /home/cristian/.gradle/caches/tran
 		ADDED from [com.squareup.picasso:picasso:2.8] /home/cristian/.gradle/caches/transforms-3/bb0c85ff43292d17695b651f7b5b29e9/transformed/jetified-picasso-2.8/AndroidManifest.xml:11:13-37
 	android:name
 		ADDED from [com.squareup.picasso:picasso:2.8] /home/cristian/.gradle/caches/transforms-3/bb0c85ff43292d17695b651f7b5b29e9/transformed/jetified-picasso-2.8/AndroidManifest.xml:9:13-64
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/cristian/.gradle/caches/transforms-3/e408dd63df737230726618cd0f99b87e/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/cristian/.gradle/caches/transforms-3/e408dd63df737230726618cd0f99b87e/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/cristian/.gradle/caches/transforms-3/e408dd63df737230726618cd0f99b87e/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/cristian/.gradle/caches/transforms-3/e408dd63df737230726618cd0f99b87e/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/cristian/.gradle/caches/transforms-3/e408dd63df737230726618cd0f99b87e/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/cristian/.gradle/caches/transforms-3/e408dd63df737230726618cd0f99b87e/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:34:13-50
 uses-permission#android.permission.WAKE_LOCK
 ADDED from [com.google.android.gms:play-services-measurement-api:19.0.0] /home/cristian/.gradle/caches/transforms-3/0704aee2619f808aa3540dc278ee8445/transformed/jetified-play-services-measurement-api-19.0.0/AndroidManifest.xml:24:5-68
 MERGED from [com.google.android.gms:play-services-measurement:19.0.0] /home/cristian/.gradle/caches/transforms-3/30e1894803304e25db90191cc30b0b45/transformed/jetified-play-services-measurement-19.0.0/AndroidManifest.xml:25:5-68

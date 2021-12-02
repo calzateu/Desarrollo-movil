@@ -116,6 +116,7 @@ int attr allowStacking 0x7f04002c
 int attr alpha 0x7f04002d
 int attr alphabeticModifiers 0x7f04002e
 int attr altSrc 0x7f04002f
+int attr ambientEnabled 0x7f040410
 int attr animateCircleAngleTo 0x7f040030
 int attr animateRelativeTo 0x7f040031
 int attr animationMode 0x7f040032
@@ -198,6 +199,13 @@ int attr buttonStyle 0x7f04007e
 int attr buttonStyleSmall 0x7f04007f
 int attr buttonTint 0x7f040080
 int attr buttonTintMode 0x7f040081
+int attr cameraBearing 0x7f040411
+int attr cameraMaxZoomPreference 0x7f040412
+int attr cameraMinZoomPreference 0x7f040413
+int attr cameraTargetLat 0x7f040414
+int attr cameraTargetLng 0x7f040415
+int attr cameraTilt 0x7f040416
+int attr cameraZoom 0x7f040417
 int attr cardBackgroundColor 0x7f040082
 int attr cardCornerRadius 0x7f040083
 int attr cardElevation 0x7f040084
@@ -570,6 +578,10 @@ int attr labelBehavior 0x7f0401f2
 int attr labelStyle 0x7f0401f3
 int attr labelVisibilityMode 0x7f0401f4
 int attr lastBaselineToBottomHeight 0x7f0401f5
+int attr latLngBoundsNorthEastLatitude 0x7f040418
+int attr latLngBoundsNorthEastLongitude 0x7f040419
+int attr latLngBoundsSouthWestLatitude 0x7f04041a
+int attr latLngBoundsSouthWestLongitude 0x7f04041b
 int attr launchSingleTop 0x7f0401f6
 int attr layout 0x7f0401f7
 int attr layoutDescription 0x7f0401f8
@@ -664,8 +676,10 @@ int attr listPreferredItemPaddingEnd 0x7f040250
 int attr listPreferredItemPaddingLeft 0x7f040251
 int attr listPreferredItemPaddingRight 0x7f040252
 int attr listPreferredItemPaddingStart 0x7f040253
+int attr liteMode 0x7f04041c
 int attr logo 0x7f040254
 int attr logoDescription 0x7f040255
+int attr mapType 0x7f04041d
 int attr materialAlertDialogBodyTextStyle 0x7f040256
 int attr materialAlertDialogTheme 0x7f040257
 int attr materialAlertDialogTitleIconStyle 0x7f040258
@@ -1075,10 +1089,19 @@ int attr triggerId 0x7f0403eb
 int attr triggerReceiver 0x7f0403ec
 int attr triggerSlack 0x7f0403ed
 int attr ttcIndex 0x7f0403ee
+int attr uiCompass 0x7f04041e
+int attr uiMapToolbar 0x7f04041f
+int attr uiRotateGestures 0x7f040420
+int attr uiScrollGestures 0x7f040421
+int attr uiScrollGesturesDuringRotateOrZoom 0x7f040422
+int attr uiTiltGestures 0x7f040423
+int attr uiZoomControls 0x7f040424
+int attr uiZoomGestures 0x7f040425
 int attr upDuration 0x7f0403ef
 int attr uri 0x7f0403f0
 int attr useCompatPadding 0x7f0403f1
 int attr useMaterialThemeColors 0x7f0403f2
+int attr useViewLifecycle 0x7f040426
 int attr values 0x7f0403f3
 int attr verticalOffset 0x7f0403f4
 int attr viewInflaterClass 0x7f0403f5
@@ -1108,6 +1131,7 @@ int attr windowNoTitle 0x7f04040c
 int attr yearSelectedStyle 0x7f04040d
 int attr yearStyle 0x7f04040e
 int attr yearTodayStyle 0x7f04040f
+int attr zOrderOnTop 0x7f040427
 int bool abc_action_bar_embed_tabs 0x7f050000
 int bool abc_config_actionMenuItemAllCaps 0x7f050001
 int bool mtrl_btn_textappearance_all_caps 0x7f050002
@@ -2283,6 +2307,7 @@ int id homeFragment 0x7f090107
 int id honorRequest 0x7f090108
 int id horizontal 0x7f090109
 int id horizontal_only 0x7f09010a
+int id hybrid 0x7f090261
 int id ibPhotoAdmin 0x7f09010b
 int id icon 0x7f09010c
 int id icon_group 0x7f09010d
@@ -2325,6 +2350,7 @@ int id listMode 0x7f090131
 int id list_item 0x7f090132
 int id logo 0x7f090133
 int id main_tos_and_pp 0x7f090134
+int id map 0x7f090262
 int id masked 0x7f090135
 int id match_constraint 0x7f090136
 int id match_parent 0x7f090137
@@ -2460,6 +2486,7 @@ int id rounded 0x7f0901b8
 int id row_index_key 0x7f0901b9
 int id rvComments 0x7f0901ba
 int id rvOrder 0x7f0901bb
+int id satellite 0x7f090263
 int id save_non_transition_alpha 0x7f0901bc
 int id save_overlay_view 0x7f0901bd
 int id sawtooth 0x7f0901be
@@ -2542,6 +2569,7 @@ int id tag_transition_group 0x7f09020a
 int id tag_unhandled_key_event_manager 0x7f09020b
 int id tag_unhandled_key_listeners 0x7f09020c
 int id tag_window_insets_animation_callback 0x7f09020d
+int id terrain 0x7f090264
 int id test_checkbox_android_button_tint 0x7f09020e
 int id test_checkbox_app_button_tint 0x7f09020f
 int id test_radiobutton_android_button_tint 0x7f090210
@@ -5138,6 +5166,31 @@ int[] styleable LoadingImageView { 0x7f0400b6, 0x7f0401c4, 0x7f0401c5 }
 int styleable LoadingImageView_circleCrop 0
 int styleable LoadingImageView_imageAspectRatio 1
 int styleable LoadingImageView_imageAspectRatioAdjust 2
+int[] styleable MapAttrs { 0x7f040410, 0x7f040411, 0x7f040412, 0x7f040413, 0x7f040414, 0x7f040415, 0x7f040416, 0x7f040417, 0x7f040418, 0x7f040419, 0x7f04041a, 0x7f04041b, 0x7f04041c, 0x7f04041d, 0x7f04041e, 0x7f04041f, 0x7f040420, 0x7f040421, 0x7f040422, 0x7f040423, 0x7f040424, 0x7f040425, 0x7f040426, 0x7f040427 }
+int styleable MapAttrs_ambientEnabled 0
+int styleable MapAttrs_cameraBearing 1
+int styleable MapAttrs_cameraMaxZoomPreference 2
+int styleable MapAttrs_cameraMinZoomPreference 3
+int styleable MapAttrs_cameraTargetLat 4
+int styleable MapAttrs_cameraTargetLng 5
+int styleable MapAttrs_cameraTilt 6
+int styleable MapAttrs_cameraZoom 7
+int styleable MapAttrs_latLngBoundsNorthEastLatitude 8
+int styleable MapAttrs_latLngBoundsNorthEastLongitude 9
+int styleable MapAttrs_latLngBoundsSouthWestLatitude 10
+int styleable MapAttrs_latLngBoundsSouthWestLongitude 11
+int styleable MapAttrs_liteMode 12
+int styleable MapAttrs_mapType 13
+int styleable MapAttrs_uiCompass 14
+int styleable MapAttrs_uiMapToolbar 15
+int styleable MapAttrs_uiRotateGestures 16
+int styleable MapAttrs_uiScrollGestures 17
+int styleable MapAttrs_uiScrollGesturesDuringRotateOrZoom 18
+int styleable MapAttrs_uiTiltGestures 19
+int styleable MapAttrs_uiZoomControls 20
+int styleable MapAttrs_uiZoomGestures 21
+int styleable MapAttrs_useViewLifecycle 22
+int styleable MapAttrs_zOrderOnTop 23
 int[] styleable MaterialAlertDialog { 0x7f040044, 0x7f040045, 0x7f040046, 0x7f040047 }
 int styleable MaterialAlertDialog_backgroundInsetBottom 0
 int styleable MaterialAlertDialog_backgroundInsetEnd 1
