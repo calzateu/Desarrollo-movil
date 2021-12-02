@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v26/values-v26.xml",
+            "outputFile": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v26\\values-v26.xml",
             "map": [
                 {
-                    "source": "/home/cristian/.gradle/caches/transforms-3/04f380ba4551de37cf3d6d371047661f/transformed/jetified-firebase-ui-auth-7.2.0/res/values-v26/values-v26.xml",
+                    "source": "C:\\Users\\Laura Caicedo\\.gradle\\caches\\transforms-3\\04f380ba4551de37cf3d6d371047661f\\transformed\\jetified-firebase-ui-auth-7.2.0\\res\\values-v26\\values-v26.xml",
                     "from": {
                         "startLines": "2,6,10,14",
                         "startColumns": "4,4,4,4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "/home/cristian/.gradle/caches/transforms-3/c38abbd96eb8006fed04eff3ca91da27/transformed/appcompat-1.4.0/res/values-v26/values-v26.xml",
+                    "source": "C:\\Users\\Laura Caicedo\\.gradle\\caches\\transforms-3\\c38abbd96eb8006fed04eff3ca91da27\\transformed\\appcompat-1.4.0\\res\\values-v26\\values-v26.xml",
                     "from": {
                         "startLines": "2,3,4,8,12,16",
                         "startColumns": "4,4,4,4,4,4",

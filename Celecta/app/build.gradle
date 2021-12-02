@@ -2,6 +2,7 @@ plugins {
     id 'com.android.application'
     id 'kotlin-android'
     id 'kotlin-android-extensions'
+    id 'com.google.gms.google-services'
 }
 
 android {
@@ -62,6 +63,7 @@ dependencies {
     api 'androidx.navigation:navigation-fragment-ktx:2.3.3'
     api 'androidx.navigation:navigation-ui-ktx:2.3.3'
 
+    //Añadimos la dependencia de Picasso
     implementation "com.squareup.picasso:picasso:2.8"
 
     implementation 'com.google.firebase:firebase-auth:21.0.1'
@@ -77,5 +79,4 @@ dependencies {
 
 }
 
-// ADD THIS AT THE BOTTOM
-apply plugin: 'com.google.gms.google-services'
+

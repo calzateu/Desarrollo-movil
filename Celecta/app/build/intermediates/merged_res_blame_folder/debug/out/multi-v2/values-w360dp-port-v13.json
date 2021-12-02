@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w360dp-port-v13/values-w360dp-port-v13.xml",
+            "outputFile": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w360dp-port-v13\\values-w360dp-port-v13.xml",
             "map": [
                 {
-                    "source": "/home/cristian/.gradle/caches/transforms-3/a7ace62b96569814c3bc8fb39f339b37/transformed/material-1.4.0/res/values-w360dp-port-v13/values-w360dp-port-v13.xml",
+                    "source": "C:\\Users\\Laura Caicedo\\.gradle\\caches\\transforms-3\\a7ace62b96569814c3bc8fb39f339b37\\transformed\\material-1.4.0\\res\\values-w360dp-port-v13\\values-w360dp-port-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",

@@ -8,7 +8,7 @@ import androidx.navigation.fragment.NavHostFragment
 import com.google.android.material.bottomnavigation.BottomNavigationItemView
 
 import com.mintic22.celecta.view.ui.fragments.HomeFragment
-import com.mintic22.celecta.view.ui.fragments.OederFragment
+import com.mintic22.celecta.view.ui.fragments.OrderFragment
 import com.mintic22.celecta.view.ui.fragments.ComentsFragment
 import com.mintic22.celecta.view.ui.fragments.AdminFragment
 import com.google.android.material.bottomnavigation.BottomNavigationView
@@ -21,10 +21,11 @@ class MainActivity : AppCompatActivity() {
 
     private val homeFragment = HomeFragment()
     private val comeFragment = ComentsFragment()
-    private val orderFragment = OederFragment()
+    private val orderFragment = OrderFragment()
     private val commentsDetailDialogFragment = CommentsDetailDialogFragment()
     private val productGridFragment = ProductGridFragment()
     private val adminFragment = AdminFragment()
+    private val orderDetailDialogFragment= OrderDetailDialogFragment()
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -35,7 +36,7 @@ class MainActivity : AppCompatActivity() {
             when(it.itemId){
                 R.id.navHomeFragment -> replaceFragment(homeFragment)
                 R.id.navCommentsFragment -> replaceFragment(commentsDetailDialogFragment)
-                R.id.navOrderFragment -> replaceFragment(productGridFragment)
+                R.id.navOrderFragment -> replaceFragment(orderDetailDialogFragment)
                 R.id.navAdminFragment -> replaceFragment(adminFragment)
             }
             true

@@ -1,270 +1,270 @@
 [
     {
-        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_logo_round.png.flat",
-        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/res/mipmap-xhdpi/ic_logo_round.png"
+        "merged": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_logo_foreground.png.flat",
+        "source": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\src\\main\\res\\mipmap-hdpi\\ic_logo_foreground.png"
     },
     {
-        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/build/intermediates/merged_res/debug/layout_fragment_home.xml.flat",
-        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/res/layout/fragment_home.xml"
+        "merged": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\build\\intermediates\\merged_res\\debug\\layout_shr_staggered_product_card_second.xml.flat",
+        "source": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\src\\main\\res\\layout\\shr_staggered_product_card_second.xml"
     },
     {
-        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/build/intermediates/merged_res/debug/layout_shr_product_card.xml.flat",
-        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/res/layout/shr_product_card.xml"
+        "merged": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_order_detail_dialog.xml.flat",
+        "source": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\src\\main\\res\\layout\\fragment_order_detail_dialog.xml"
     },
     {
-        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_logo.png.flat",
-        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/res/mipmap-xxhdpi/ic_logo.png"
+        "merged": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_logo.png.flat",
-        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/res/mipmap-xhdpi/ic_logo.png"
+        "merged": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_logo_foreground.png.flat",
+        "source": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_logo_foreground.png"
     },
     {
-        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/build/intermediates/merged_res/debug/drawable_ic_baseline_shopping_cart_24.xml.flat",
-        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/res/drawable/ic_baseline_shopping_cart_24.xml"
+        "merged": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_logo_round.png.flat",
+        "source": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\src\\main\\res\\mipmap-xhdpi\\ic_logo_round.png"
     },
     {
-        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_logo_round.png.flat",
-        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/res/mipmap-mdpi/ic_logo_round.png"
+        "merged": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+        "merged": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_logo_round.png.flat",
+        "source": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_logo_round.png"
     },
     {
-        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_logo_foreground.png.flat",
-        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/res/mipmap-xhdpi/ic_logo_foreground.png"
+        "merged": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_foreground.png.flat",
-        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png"
+        "merged": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\build\\intermediates\\merged_res\\debug\\drawable_shr_menu.xml.flat",
+        "source": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\src\\main\\res\\drawable\\shr_menu.xml"
     },
     {
-        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/build/intermediates/merged_res/debug/layout_activity_login.xml.flat",
-        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/res/layout/activity_login.xml"
+        "merged": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/build/intermediates/merged_res/debug/layout_item_product.xml.flat",
-        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/res/layout/item_product.xml"
+        "merged": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_logo_foreground.png.flat",
+        "source": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\src\\main\\res\\mipmap-xhdpi\\ic_logo_foreground.png"
     },
     {
-        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\src\\main\\res\\layout\\fragment_home.xml"
     },
     {
-        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/build/intermediates/merged_res/debug/layout_shr_staggered_product_card_second.xml.flat",
-        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/res/layout/shr_staggered_product_card_second.xml"
+        "merged": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_home_24.xml.flat",
+        "source": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\src\\main\\res\\drawable\\ic_baseline_home_24.xml"
     },
     {
-        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_logo_foreground.png.flat",
-        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/res/mipmap-xxxhdpi/ic_logo_foreground.png"
+        "merged": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_logo.png.flat",
+        "source": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_logo.png"
     },
     {
-        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/build/intermediates/merged_res/debug/drawable_ic_baseline_home_24.xml.flat",
-        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/res/drawable/ic_baseline_home_24.xml"
+        "merged": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_logo_round.png.flat",
+        "source": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_logo_round.png"
     },
     {
-        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/build/intermediates/merged_res/debug/drawable_splash_celecta_07.png.flat",
-        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/res/drawable/splash_celecta_07.png"
+        "merged": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
-        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/build/intermediates/merged_res/debug/drawable_colasirenarosa.png.flat",
-        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/res/drawable/colasirenarosa.png"
+        "merged": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_logo_round.xml.flat",
+        "source": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_logo_round.xml"
     },
     {
-        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/build/intermediates/merged_res/debug/layout_activity_main.xml.flat",
-        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/res/layout/activity_main.xml"
+        "merged": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_logo.xml.flat",
+        "source": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_logo.xml"
     },
     {
-        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/build/intermediates/merged_res/debug/layout_shr_product_grid_fragment.xml.flat",
-        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/res/layout/shr_product_grid_fragment.xml"
+        "merged": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_logo.png.flat",
+        "source": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\src\\main\\res\\mipmap-hdpi\\ic_logo.png"
     },
     {
-        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_logo.png.flat",
-        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/res/mipmap-xxxhdpi/ic_logo.png"
+        "merged": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_shopping_cart_24.xml.flat",
+        "source": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\src\\main\\res\\drawable\\ic_baseline_shopping_cart_24.xml"
     },
     {
-        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/build/intermediates/merged_res/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\build\\intermediates\\merged_res\\debug\\layout_shr_staggered_product_card_first.xml.flat",
+        "source": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\src\\main\\res\\layout\\shr_staggered_product_card_first.xml"
     },
     {
-        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_foreground.png.flat",
-        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png"
+        "merged": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\build\\intermediates\\merged_res\\debug\\drawable_homecelecta.png.flat",
+        "source": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\src\\main\\res\\drawable\\homecelecta.png"
     },
     {
-        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/build/intermediates/merged_res/debug/layout_fragment_admin_detail_dialog.xml.flat",
-        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/res/layout/fragment_admin_detail_dialog.xml"
+        "merged": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\build\\intermediates\\merged_res\\debug\\anim_animation.xml.flat",
+        "source": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\src\\main\\res\\anim\\animation.xml"
     },
     {
-        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.png.flat",
-        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+        "merged": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+        "merged": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+        "merged": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_logo_round.xml.flat",
-        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/res/mipmap-anydpi-v26/ic_logo_round.xml"
+        "merged": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_admin_detail_dialog.xml.flat",
+        "source": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\src\\main\\res\\layout\\fragment_admin_detail_dialog.xml"
     },
     {
-        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+        "merged": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_logo.png.flat",
+        "source": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\src\\main\\res\\mipmap-xhdpi\\ic_logo.png"
     },
     {
-        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_logo_foreground.png.flat",
-        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/res/mipmap-mdpi/ic_logo_foreground.png"
+        "merged": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\build\\intermediates\\merged_res\\debug\\raw_products.json.flat",
+        "source": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\src\\main\\res\\raw\\products.json"
     },
     {
-        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_logo_foreground.png.flat",
-        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/res/mipmap-xxhdpi/ic_logo_foreground.png"
+        "merged": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\src\\main\\res\\layout\\activity_login.xml"
     },
     {
-        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/build/intermediates/merged_res/debug/layout_fragment_coments.xml.flat",
-        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/res/layout/fragment_coments.xml"
+        "merged": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/build/intermediates/merged_res/debug/navigation_nav_graph.xml.flat",
-        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/res/navigation/nav_graph.xml"
+        "merged": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/build/intermediates/merged_res/debug/raw_products.json.flat",
-        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/res/raw/products.json"
+        "merged": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_comments_detail_dialog.xml.flat",
+        "source": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\src\\main\\res\\layout\\fragment_comments_detail_dialog.xml"
     },
     {
-        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/build/intermediates/merged_res/debug/layout_item_comments.xml.flat",
-        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/res/layout/item_comments.xml"
+        "merged": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_admin.xml.flat",
+        "source": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\src\\main\\res\\layout\\fragment_admin.xml"
     },
     {
-        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/build/intermediates/merged_res/debug/drawable__cobijas.png.flat",
-        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/res/drawable/_cobijas.png"
+        "merged": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_logo_round.png.flat",
+        "source": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\src\\main\\res\\mipmap-hdpi\\ic_logo_round.png"
     },
     {
-        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_logo.png.flat",
-        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/res/mipmap-mdpi/ic_logo.png"
+        "merged": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\build\\intermediates\\merged_res\\debug\\layout_item_product.xml.flat",
+        "source": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\src\\main\\res\\layout\\item_product.xml"
     },
     {
-        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/build/intermediates/merged_res/debug/drawable_homecelecta_08.png.flat",
-        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/res/drawable/homecelecta_08.png"
+        "merged": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/build/intermediates/merged_res/debug/anim_animation.xml.flat",
-        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/res/anim/animation.xml"
+        "merged": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\build\\intermediates\\merged_res\\debug\\drawable_logo_celecta_05.png.flat",
+        "source": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\src\\main\\res\\drawable\\logo_celecta_05.png"
     },
     {
-        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/build/intermediates/merged_res/debug/layout_shr_staggered_product_card_first.xml.flat",
-        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/res/layout/shr_staggered_product_card_first.xml"
+        "merged": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/build/intermediates/merged_res/debug/layout_fragment_admin.xml.flat",
-        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/res/layout/fragment_admin.xml"
+        "merged": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_supervisor_account_24.xml.flat",
+        "source": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\src\\main\\res\\drawable\\ic_baseline_supervisor_account_24.xml"
     },
     {
-        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/build/intermediates/merged_res/debug/drawable_ic_baseline_supervisor_account_24.xml.flat",
-        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/res/drawable/ic_baseline_supervisor_account_24.xml"
+        "merged": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_order.xml.flat",
+        "source": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\src\\main\\res\\layout\\fragment_order.xml"
     },
     {
-        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.png.flat",
-        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+        "merged": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\build\\intermediates\\merged_res\\debug\\layout_shr_staggered_product_card_third.xml.flat",
+        "source": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\src\\main\\res\\layout\\shr_staggered_product_card_third.xml"
     },
     {
-        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_logo.xml.flat",
-        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/res/mipmap-anydpi-v26/ic_logo.xml"
+        "merged": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/build/intermediates/merged_res/debug/layout_activity_splash_screen.xml.flat",
-        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/res/layout/activity_splash_screen.xml"
+        "merged": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_logo_foreground.png.flat",
+        "source": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\src\\main\\res\\mipmap-mdpi\\ic_logo_foreground.png"
     },
     {
-        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/build/intermediates/merged_res/debug/menu_menu.xml.flat",
-        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/res/menu/menu.xml"
+        "merged": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_logo_round.png.flat",
-        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/res/mipmap-hdpi/ic_logo_round.png"
+        "merged": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_logo_round.png.flat",
+        "source": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\src\\main\\res\\mipmap-mdpi\\ic_logo_round.png"
     },
     {
-        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/build/intermediates/merged_res/debug/layout_fragment_order.xml.flat",
-        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/res/layout/fragment_order.xml"
+        "merged": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\build\\intermediates\\merged_res\\debug\\drawable__cobijas.png.flat",
+        "source": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\src\\main\\res\\drawable\\_cobijas.png"
     },
     {
-        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/build/intermediates/merged_res/debug/drawable_logo_celecta_05.png.flat",
-        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/res/drawable/logo_celecta_05.png"
+        "merged": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\build\\intermediates\\merged_res\\debug\\layout_shr_product_card.xml.flat",
+        "source": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\src\\main\\res\\layout\\shr_product_card.xml"
     },
     {
-        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/build/intermediates/merged_res/debug/layout_shr_staggered_product_card_third.xml.flat",
-        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/res/layout/shr_staggered_product_card_third.xml"
+        "merged": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\build\\intermediates\\merged_res\\debug\\menu_menu.xml.flat",
+        "source": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\src\\main\\res\\menu\\menu.xml"
     },
     {
-        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+        "merged": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\build\\intermediates\\merged_res\\debug\\layout_item_comments.xml.flat",
+        "source": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\src\\main\\res\\layout\\item_comments.xml"
     },
     {
-        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/build/intermediates/merged_res/debug/drawable_shr_menu.xml.flat",
-        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/res/drawable/shr_menu.xml"
+        "merged": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\build\\intermediates\\merged_res\\debug\\drawable_colasirenarosa.png.flat",
+        "source": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\src\\main\\res\\drawable\\colasirenarosa.png"
     },
     {
-        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/build/intermediates/merged_res/debug/drawable_ic_baseline_comment_24.xml.flat",
-        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/res/drawable/ic_baseline_comment_24.xml"
+        "merged": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+        "merged": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_logo.png.flat",
+        "source": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_logo.png"
     },
     {
-        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_logo_foreground.png.flat",
-        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/res/mipmap-hdpi/ic_logo_foreground.png"
+        "merged": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\build\\intermediates\\merged_res\\debug\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\src\\main\\res\\navigation\\nav_graph.xml"
     },
     {
-        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_foreground.png.flat",
-        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png"
+        "merged": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
-        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
-        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png"
+        "merged": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\build\\intermediates\\merged_res\\debug\\drawable_splash_celecta_07.png.flat",
+        "source": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\src\\main\\res\\drawable\\splash_celecta_07.png"
     },
     {
-        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/build/intermediates/merged_res/debug/drawable_homecelecta.png.flat",
-        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/res/drawable/homecelecta.png"
+        "merged": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/build/intermediates/merged_res/debug/layout_fragment_order_detail_dialog.xml.flat",
-        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/res/layout/fragment_order_detail_dialog.xml"
+        "merged": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+        "merged": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_comment_24.xml.flat",
+        "source": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\src\\main\\res\\drawable\\ic_baseline_comment_24.xml"
     },
     {
-        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+        "merged": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_splash_screen.xml.flat",
+        "source": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
     },
     {
-        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
-        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png"
+        "merged": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_coments.xml.flat",
+        "source": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\src\\main\\res\\layout\\fragment_coments.xml"
     },
     {
-        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_logo_round.png.flat",
-        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/res/mipmap-xxxhdpi/ic_logo_round.png"
+        "merged": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_logo.png.flat",
+        "source": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\src\\main\\res\\mipmap-mdpi\\ic_logo.png"
     },
     {
-        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_logo_round.png.flat",
-        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/res/mipmap-xxhdpi/ic_logo_round.png"
+        "merged": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\build\\intermediates\\merged_res\\debug\\drawable_homecelecta_08.png.flat",
+        "source": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\src\\main\\res\\drawable\\homecelecta_08.png"
     },
     {
-        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/build/intermediates/merged_res/debug/layout_fragment_comments_detail_dialog.xml.flat",
-        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/res/layout/fragment_comments_detail_dialog.xml"
+        "merged": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\build\\intermediates\\merged_res\\debug\\layout_shr_product_grid_fragment.xml.flat",
+        "source": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\src\\main\\res\\layout\\shr_product_grid_fragment.xml"
     },
     {
-        "merged": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_logo.png.flat",
-        "source": "/home/cristian/Descargas/Mision_TIC_2022/Programacion/Ciclo_4/Proyecto/Desarrollo-movil/Celecta/app/src/main/res/mipmap-hdpi/ic_logo.png"
+        "merged": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_logo_foreground.png.flat",
+        "source": "C:\\Users\\Laura Caicedo\\Documents\\RepositorioCelecta\\Desarrollo-movil\\Celecta\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_logo_foreground.png"
     }
 ]
