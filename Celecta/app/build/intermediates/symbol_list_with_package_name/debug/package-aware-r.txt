@@ -2309,6 +2309,7 @@ id item3
 id item4
 id item_touch_helper_previous_elevation
 id ivItemProduct
+id ivProduct
 id ivSplashScreen
 id jumpToEnd
 id jumpToStart
@@ -2586,12 +2587,14 @@ id triangle
 id trouble_signing_in
 id trouble_signing_in_possible_fixes
 id tvAddressAdmin
-id tvItemCommentsComment
+id tvDescriptionProduct
 id tvItemCommentsScore
 id tvItemCommentsUser
 id tvMailAdmin
 id tvNameAdmin
+id tvNameProduct
 id tvPhoneAdmin
+id tvPriceProduct
 id unchecked
 id uniform
 id unlabeled

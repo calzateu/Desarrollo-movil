@@ -5,6 +5,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
+import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toolbar;
 import androidx.annotation.NonNull;
@@ -25,18 +26,31 @@ public final class FragmentOrderDetailDialogBinding implements ViewBinding {
   public final Button btBuyProduct;
 
   @NonNull
+  public final ImageView ivProduct;
+
+  @NonNull
   public final Toolbar toolbarProduct;
 
   @NonNull
-  public final TextView tvItemCommentsComment;
+  public final TextView tvDescriptionProduct;
+
+  @NonNull
+  public final TextView tvNameProduct;
+
+  @NonNull
+  public final TextView tvPriceProduct;
 
   private FragmentOrderDetailDialogBinding(@NonNull CoordinatorLayout rootView,
-      @NonNull Button btBuyProduct, @NonNull Toolbar toolbarProduct,
-      @NonNull TextView tvItemCommentsComment) {
+      @NonNull Button btBuyProduct, @NonNull ImageView ivProduct, @NonNull Toolbar toolbarProduct,
+      @NonNull TextView tvDescriptionProduct, @NonNull TextView tvNameProduct,
+      @NonNull TextView tvPriceProduct) {
     this.rootView = rootView;
     this.btBuyProduct = btBuyProduct;
+    this.ivProduct = ivProduct;
     this.toolbarProduct = toolbarProduct;
-    this.tvItemCommentsComment = tvItemCommentsComment;
+    this.tvDescriptionProduct = tvDescriptionProduct;
+    this.tvNameProduct = tvNameProduct;
+    this.tvPriceProduct = tvPriceProduct;
   }
 
   @Override
@@ -72,20 +86,38 @@ public final class FragmentOrderDetailDialogBinding implements ViewBinding {
         break missingId;
       }
 
+      id = R.id.ivProduct;
+      ImageView ivProduct = ViewBindings.findChildViewById(rootView, id);
+      if (ivProduct == null) {
+        break missingId;
+      }
+
       id = R.id.toolbarProduct;
       Toolbar toolbarProduct = ViewBindings.findChildViewById(rootView, id);
       if (toolbarProduct == null) {
         break missingId;
       }
 
-      id = R.id.tvItemCommentsComment;
-      TextView tvItemCommentsComment = ViewBindings.findChildViewById(rootView, id);
-      if (tvItemCommentsComment == null) {
+      id = R.id.tvDescriptionProduct;
+      TextView tvDescriptionProduct = ViewBindings.findChildViewById(rootView, id);
+      if (tvDescriptionProduct == null) {
+        break missingId;
+      }
+
+      id = R.id.tvNameProduct;
+      TextView tvNameProduct = ViewBindings.findChildViewById(rootView, id);
+      if (tvNameProduct == null) {
+        break missingId;
+      }
+
+      id = R.id.tvPriceProduct;
+      TextView tvPriceProduct = ViewBindings.findChildViewById(rootView, id);
+      if (tvPriceProduct == null) {
         break missingId;
       }
 
       return new FragmentOrderDetailDialogBinding((CoordinatorLayout) rootView, btBuyProduct,
-          toolbarProduct, tvItemCommentsComment);
+          ivProduct, toolbarProduct, tvDescriptionProduct, tvNameProduct, tvPriceProduct);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

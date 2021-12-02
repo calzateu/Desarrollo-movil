@@ -20,7 +20,7 @@ public final class ItemCommentsBinding implements ViewBinding {
   private final LinearLayout rootView;
 
   @NonNull
-  public final TextView tvItemCommentsComment;
+  public final TextView tvDescriptionProduct;
 
   @NonNull
   public final TextView tvItemCommentsScore;
@@ -29,10 +29,10 @@ public final class ItemCommentsBinding implements ViewBinding {
   public final TextView tvItemCommentsUser;
 
   private ItemCommentsBinding(@NonNull LinearLayout rootView,
-      @NonNull TextView tvItemCommentsComment, @NonNull TextView tvItemCommentsScore,
+      @NonNull TextView tvDescriptionProduct, @NonNull TextView tvItemCommentsScore,
       @NonNull TextView tvItemCommentsUser) {
     this.rootView = rootView;
-    this.tvItemCommentsComment = tvItemCommentsComment;
+    this.tvDescriptionProduct = tvDescriptionProduct;
     this.tvItemCommentsScore = tvItemCommentsScore;
     this.tvItemCommentsUser = tvItemCommentsUser;
   }
@@ -64,9 +64,9 @@ public final class ItemCommentsBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
-      id = R.id.tvItemCommentsComment;
-      TextView tvItemCommentsComment = ViewBindings.findChildViewById(rootView, id);
-      if (tvItemCommentsComment == null) {
+      id = R.id.tvDescriptionProduct;
+      TextView tvDescriptionProduct = ViewBindings.findChildViewById(rootView, id);
+      if (tvDescriptionProduct == null) {
         break missingId;
       }
 
@@ -82,7 +82,7 @@ public final class ItemCommentsBinding implements ViewBinding {
         break missingId;
       }
 
-      return new ItemCommentsBinding((LinearLayout) rootView, tvItemCommentsComment,
+      return new ItemCommentsBinding((LinearLayout) rootView, tvDescriptionProduct,
           tvItemCommentsScore, tvItemCommentsUser);
     }
     String missingId = rootView.getResources().getResourceName(id);
