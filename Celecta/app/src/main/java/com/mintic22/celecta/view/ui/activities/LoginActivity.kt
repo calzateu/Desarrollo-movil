@@ -55,7 +55,7 @@ class LoginActivity : AppCompatActivity() {
                     .createSignInIntentBuilder()
                     .setAvailableProviders(providers)
                     .setLogo(R.drawable.logo_celecta_05)
-                    .setTheme(R.style.Theme_Shrine)
+                    .setTheme(R.style.LoginTheme)
                     .build(),AUTH_REQUEST_CODE)
             }
         }

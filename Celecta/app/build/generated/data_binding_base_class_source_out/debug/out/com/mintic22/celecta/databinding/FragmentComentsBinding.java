@@ -4,7 +4,6 @@ package com.mintic22.celecta.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.EditText;
 import android.widget.FrameLayout;
 import android.widget.RelativeLayout;
 import androidx.annotation.NonNull;
@@ -12,6 +11,7 @@ import androidx.annotation.Nullable;
 import androidx.recyclerview.widget.RecyclerView;
 import androidx.viewbinding.ViewBinding;
 import androidx.viewbinding.ViewBindings;
+import com.google.android.material.floatingactionbutton.FloatingActionButton;
 import com.mintic22.celecta.R;
 import java.lang.NullPointerException;
 import java.lang.Override;
@@ -22,7 +22,7 @@ public final class FragmentComentsBinding implements ViewBinding {
   private final FrameLayout rootView;
 
   @NonNull
-  public final EditText fad1;
+  public final FloatingActionButton fab;
 
   @NonNull
   public final RelativeLayout rlBaseComments;
@@ -30,10 +30,10 @@ public final class FragmentComentsBinding implements ViewBinding {
   @NonNull
   public final RecyclerView rvComments;
 
-  private FragmentComentsBinding(@NonNull FrameLayout rootView, @NonNull EditText fad1,
+  private FragmentComentsBinding(@NonNull FrameLayout rootView, @NonNull FloatingActionButton fab,
       @NonNull RelativeLayout rlBaseComments, @NonNull RecyclerView rvComments) {
     this.rootView = rootView;
-    this.fad1 = fad1;
+    this.fab = fab;
     this.rlBaseComments = rlBaseComments;
     this.rvComments = rvComments;
   }
@@ -65,9 +65,9 @@ public final class FragmentComentsBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
-      id = R.id.fad1;
-      EditText fad1 = ViewBindings.findChildViewById(rootView, id);
-      if (fad1 == null) {
+      id = R.id.fab;
+      FloatingActionButton fab = ViewBindings.findChildViewById(rootView, id);
+      if (fab == null) {
         break missingId;
       }
 
@@ -83,7 +83,7 @@ public final class FragmentComentsBinding implements ViewBinding {
         break missingId;
       }
 
-      return new FragmentComentsBinding((FrameLayout) rootView, fad1, rlBaseComments, rvComments);
+      return new FragmentComentsBinding((FrameLayout) rootView, fab, rlBaseComments, rvComments);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

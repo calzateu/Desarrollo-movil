@@ -6,10 +6,12 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.EditText;
-import android.widget.FrameLayout;
 import android.widget.Spinner;
+import android.widget.TextView;
+import android.widget.Toolbar;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
+import androidx.coordinatorlayout.widget.CoordinatorLayout;
 import androidx.viewbinding.ViewBinding;
 import androidx.viewbinding.ViewBindings;
 import com.mintic22.celecta.R;
@@ -19,7 +21,7 @@ import java.lang.String;
 
 public final class FragmentCommentsDetailDialogBinding implements ViewBinding {
   @NonNull
-  private final FrameLayout rootView;
+  private final CoordinatorLayout rootView;
 
   @NonNull
   public final Button btSaveComment;
@@ -28,24 +30,33 @@ public final class FragmentCommentsDetailDialogBinding implements ViewBinding {
   public final EditText etComments;
 
   @NonNull
-  public final EditText etComments1;
-
-  @NonNull
   public final Spinner spinnerScores;
 
-  private FragmentCommentsDetailDialogBinding(@NonNull FrameLayout rootView,
-      @NonNull Button btSaveComment, @NonNull EditText etComments, @NonNull EditText etComments1,
-      @NonNull Spinner spinnerScores) {
+  @NonNull
+  public final Toolbar toolbarComments;
+
+  @NonNull
+  public final TextView tvComments;
+
+  @NonNull
+  public final TextView tvItemCommentsUser;
+
+  private FragmentCommentsDetailDialogBinding(@NonNull CoordinatorLayout rootView,
+      @NonNull Button btSaveComment, @NonNull EditText etComments, @NonNull Spinner spinnerScores,
+      @NonNull Toolbar toolbarComments, @NonNull TextView tvComments,
+      @NonNull TextView tvItemCommentsUser) {
     this.rootView = rootView;
     this.btSaveComment = btSaveComment;
     this.etComments = etComments;
-    this.etComments1 = etComments1;
     this.spinnerScores = spinnerScores;
+    this.toolbarComments = toolbarComments;
+    this.tvComments = tvComments;
+    this.tvItemCommentsUser = tvItemCommentsUser;
   }
 
   @Override
   @NonNull
-  public FrameLayout getRoot() {
+  public CoordinatorLayout getRoot() {
     return rootView;
   }
 
@@ -82,20 +93,32 @@ public final class FragmentCommentsDetailDialogBinding implements ViewBinding {
         break missingId;
       }
 
-      id = R.id.etComments1;
-      EditText etComments1 = ViewBindings.findChildViewById(rootView, id);
-      if (etComments1 == null) {
-        break missingId;
-      }
-
       id = R.id.spinnerScores;
       Spinner spinnerScores = ViewBindings.findChildViewById(rootView, id);
       if (spinnerScores == null) {
         break missingId;
       }
 
-      return new FragmentCommentsDetailDialogBinding((FrameLayout) rootView, btSaveComment,
-          etComments, etComments1, spinnerScores);
+      id = R.id.toolbarComments;
+      Toolbar toolbarComments = ViewBindings.findChildViewById(rootView, id);
+      if (toolbarComments == null) {
+        break missingId;
+      }
+
+      id = R.id.tvComments;
+      TextView tvComments = ViewBindings.findChildViewById(rootView, id);
+      if (tvComments == null) {
+        break missingId;
+      }
+
+      id = R.id.tvItemCommentsUser;
+      TextView tvItemCommentsUser = ViewBindings.findChildViewById(rootView, id);
+      if (tvItemCommentsUser == null) {
+        break missingId;
+      }
+
+      return new FragmentCommentsDetailDialogBinding((CoordinatorLayout) rootView, btSaveComment,
+          etComments, spinnerScores, toolbarComments, tvComments, tvItemCommentsUser);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

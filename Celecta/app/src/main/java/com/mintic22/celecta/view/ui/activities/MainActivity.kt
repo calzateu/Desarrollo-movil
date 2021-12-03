@@ -35,7 +35,7 @@ class MainActivity : AppCompatActivity() {
         nav_boto.setOnNavigationItemSelectedListener{
             when(it.itemId){
                 R.id.navHomeFragment -> replaceFragment(homeFragment)
-                R.id.navCommentsFragment -> replaceFragment(commentsDetailDialogFragment)
+                R.id.navCommentsFragment -> replaceFragment(comeFragment)
                 R.id.navOrderFragment -> replaceFragment(orderFragment)
                 R.id.navAdminFragment -> replaceFragment(adminFragment)
             }

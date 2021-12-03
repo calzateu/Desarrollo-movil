@@ -2001,6 +2001,7 @@ drawable ic_mtrl_checked_circle
 drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
+drawable ic_outline_comment_24
 drawable logo_celecta_05
 drawable material_cursor_drawable
 drawable material_ic_calendar_black_24dp
@@ -2265,13 +2266,13 @@ id enterAlways
 id enterAlwaysCollapsed
 id etAddressAdmin
 id etComments
-id etComments1
 id etMailAdmin
 id etNameAdmin
 id etPhoneAdmin
 id exitUntilCollapsed
 id expand_activities_button
 id expanded_menu
+id fab
 id fad1
 id fade
 id fill
@@ -2598,6 +2599,7 @@ id title
 id titleDividerNoCustom
 id title_template
 id toggle
+id toolbarComments
 id toolbarProduct
 id top
 id topPanel
@@ -2615,6 +2617,7 @@ id triangle
 id trouble_signing_in
 id trouble_signing_in_possible_fixes
 id tvAddressAdmin
+id tvComments
 id tvDescriptionProduct
 id tvItemCommentsComment
 id tvItemCommentsScore
@@ -3408,6 +3411,8 @@ style FirebaseUI_TopProgressBar
 style FirebaseUI_Transparent
 style FirebaseUI_VerifyPhoneButton
 style FirebaseUI_WrapperStyle
+style FullScreenDialogStyle
+style LoginTheme
 style MaterialAlertDialog_MaterialComponents
 style MaterialAlertDialog_MaterialComponents_Body_Text
 style MaterialAlertDialog_MaterialComponents_Picker_Date_Calendar
@@ -3648,7 +3653,6 @@ style Theme_MaterialComponents_Light_NoActionBar
 style Theme_MaterialComponents_Light_NoActionBar_Bridge
 style Theme_MaterialComponents_NoActionBar
 style Theme_MaterialComponents_NoActionBar_Bridge
-style Theme_Shrine
 style ThemeOverlay_AppCompat
 style ThemeOverlay_AppCompat_ActionBar
 style ThemeOverlay_AppCompat_Dark
@@ -3911,7 +3915,6 @@ style Widget_MaterialProgressBar_ProgressBar_Large_NoPadding
 style Widget_MaterialProgressBar_ProgressBar_NoPadding
 style Widget_MaterialProgressBar_ProgressBar_Small
 style Widget_MaterialProgressBar_ProgressBar_Small_NoPadding
-style Widget_Shrine_Toolbar
 style Widget_Support_CoordinatorLayout
 styleable ActionBar background backgroundSplit backgroundStacked contentInsetEnd contentInsetEndWithActions contentInsetLeft contentInsetRight contentInsetStart contentInsetStartWithNavigation customNavigationLayout displayOptions divider elevation height hideOnContentScroll homeAsUpIndicator homeLayout icon indeterminateProgressStyle itemPadding logo navigationMode popupTheme progressBarPadding progressBarStyle subtitle subtitleTextStyle title titleTextStyle
 styleable ActionBarLayout android_layout_gravity
